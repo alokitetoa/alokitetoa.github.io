@@ -1,0 +1,13 @@
+/.cache/
+/.nyc_output/
+/coverage/
+/node_modules/
+/packages/*/node_modules/
+
+# IDEs
+.vscode
+.history/
+*.code-workspace
+.idea
+.vscode/
+package-lock.json
