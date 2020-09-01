@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="183px" preserveAspectRatio="none" style="width:522px;height:183px;" version="1.1" viewBox="0 0 522 183" width="522px" zoomAndPan="magnify"><defs><filter height="300%" id="fh5uxuco00fk6" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><rect fill="#FEFECE" filter="url(#fh5uxuco00fk6)" height="37.6094" rx="12.5" ry="12.5" style="stroke: #A80036; stroke-width: 1.5;" width="98" x="147" y="77.6094"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="78" x="157" y="102.1426">myThoughts</text><rect fill="#FEFECE" filter="url(#fh5uxuco00fk6)" height="37.6094" rx="12.5" ry="12.5" style="stroke: #A80036; stroke-width: 1.5;" width="85" x="295" y="20"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="65" x="305" y="44.5332">Thought 1</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="77" x="433" y="34.7285">Thought 1.1</text><path d="M380,38.8047 L390,38.8047 C405,38.8047 405,29 420,29 L430,29 " fill="none" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="77" x="433" y="54.3379">Thought 1.2</text><path d="M380,38.8047 L390,38.8047 C405,38.8047 405,48.6094 420,48.6094 L430,48.6094 " fill="none" style="stroke: #A80036; stroke-width: 1.0;"/><path d="M245,96.4141 L255,96.4141 C270,96.4141 270,38.8047 285,38.8047 L295,38.8047 " fill="none" style="stroke: #A80036; stroke-width: 1.0;"/><rect fill="#FEFECE" filter="url(#fh5uxuco00fk6)" height="37.6094" rx="12.5" ry="12.5" style="stroke: #A80036; stroke-width: 1.5;" width="85" x="295" y="77.6094"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="65" x="305" y="102.1426">Thought 2</text><path d="M245,96.4141 L255,96.4141 C270,96.4141 270,96.4141 285,96.4141 L295,96.4141 " fill="none" style="stroke: #A80036; stroke-width: 1.0;"/><rect fill="#FEFECE" filter="url(#fh5uxuco00fk6)" height="37.6094" rx="12.5" ry="12.5" style="stroke: #A80036; stroke-width: 1.5;" width="85" x="295" y="135.2188"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="65" x="305" y="159.752">Thought 3</text><path d="M245,96.4141 L255,96.4141 C270,96.4141 270,154.0234 285,154.0234 L295,154.0234 " fill="none" style="stroke: #A80036; stroke-width: 1.0;"/><rect fill="#FEFECE" filter="url(#fh5uxuco00fk6)" height="37.6094" rx="12.5" ry="12.5" style="stroke: #A80036; stroke-width: 1.5;" width="86" x="11" y="20"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="66" x="21" y="44.5332">Thought A</text><path d="M147,96.4141 L137,96.4141 C122,96.4141 122,38.8047 107,38.8047 L97,38.8047 " fill="none" style="stroke: #A80036; stroke-width: 1.0;"/><rect fill="#FEFECE" filter="url(#fh5uxuco00fk6)" height="37.6094" rx="12.5" ry="12.5" style="stroke: #A80036; stroke-width: 1.5;" width="86" x="11" y="77.6094"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="66" x="21" y="102.1426">Thought B</text><path d="M147,96.4141 L137,96.4141 C122,96.4141 122,96.4141 107,96.4141 L97,96.4141 " fill="none" style="stroke: #A80036; stroke-width: 1.0;"/><rect fill="#FEFECE" filter="url(#fh5uxuco00fk6)" height="37.6094" rx="12.5" ry="12.5" style="stroke: #A80036; stroke-width: 1.5;" width="87" x="10" y="135.2188"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="67" x="20" y="159.752">Thought C</text><path d="M147,96.4141 L137,96.4141 C122,96.4141 122,154.0234 107,154.0234 L97,154.0234 " fill="none" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[a5712647c1edff31c81ebbc5cb509a68]
+@startmindmap
++ myThoughts
+++ Thought 1
++++_ Thought 1.1
++++_ Thought 1.2
+++ Thought 2
+++ Thought 3
+
+- - Thought A
+- - Thought B
+- - Thought C
+@endmindmap
+
+PlantUML version 1.2019.12(Sun Nov 03 11:24:54 CET 2019)
+(APACHE source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Java Version: 14.0.2+12
+Operating System: Windows 10
+Default Encoding: Cp1252
+Language: fr
+Country: FR
+--></g></svg>

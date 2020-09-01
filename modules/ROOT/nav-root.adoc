@@ -1,3 +1,3 @@
-* xref:index.adoc[Association]
-** xref:cc-by-nc-sa.adoc[Lic. CC-BY-NC-SA 4.0]
-** xref:common_gfdl1.2_i.adoc[Lic. GFDL]
+* xref:index.adoc[Démarrage]
+// ** xref:cc-by-nc-sa.adoc[Lic. CC-BY-NC-SA 4.0]
+// ** xref:common_gfdl1.2_i.adoc[Lic. GFDL]

@@ -2,18 +2,65 @@
 :uri-devoxx: https://devoxx.be
 :fablab: pass:q[*FAB__e__LAB__e__*]
 
-= Association
+= Association {cyc}
 
 == Objectifs
 
-image:200831_logo_cyclup.svg[Multirepo SSG,200,float=right]
-Modéliser, réaliser et tester des démonstrateurs à l'échelle 1 dans les domaines suivants :
+image:200831_logo_cyclup.svg[logo,200,400,float=right]
+Modéliser, réaliser et tester des démonstrateurs à l'échelle 1 dans les domaines ci-dessous, listés par ordre de priorité. Transmettre des concepts et modèles fiables et peu onéreux
 
+Tous ces projets sont reliés entre eux par les mêmes concepts "utilitaires" de développement d'une forme d'autonomie augmentant la résilience aux aléas inévitables que nous réserve le futur...
+
+.Liste des familles de projets
+. Recyclage/Upcyclage de véhicules & matériaux
 . Autonomie énergétique
-. Autonomie alimentaire
 . Habitat résilient
+. Autonomie alimentaire
 
-Ces domaines sont détaillés à l'onglet xref:projets/projets-index.adoc[projets]
+NOTE: L'ensemble des projets est détaillé à l'onglet xref:projets:projets_index.adoc[projets]
+
+
+== Définition
+
+{cyc} est une association orientée principalement vers des actions concrètes visant aussi bien l'éducation que la réalisation de modèles éprouvés pour leur efficacité et leur rusticité apportant une aisance et une maîtrise certaine pour leur maintenance ultérieure.
+
+* Dans un premier temps, il s'agit de réaliser un prototype et de l'optimiser suite au REX, en se basant sur des principes de réalisation et d'exploitation à faible coût, comme d'efficience ou de portabilité (standardisation de pièces, etc.)
+* Ensuite, une fois le modèle éprouvé et revu, la transmission de compétences au plus grand nombre reste le but ultime, par l'organisation de stages de réalisation, comme de formations d'aide à la conception ou l'assistance à l'auto-réalisation.
+
+
+== Documents fondateurs
+
+=== Statuts
+Les statuts sont téléchargeables au format PDF en cliquant sur le lien suivant link:./_attachments/200901_cyclup-statuts.pdf[Statuts {cyc} (PDF)]
+
+
+=== Autres documents
+
+Au fur et à mesure du développement des activités, celles-ci feront l'objet de *règlements* spécifique.
+
+Par exemple, le dépôt principal fera l'objet d'un reglement d'usage spécifiant aussi bien la nature des objets sockés que les personnes qui y auront accès.
+
+De même, lors de la création de l'Atelier, l'uitilisation de cleui-ci par les memebre fera l'objet d'un reglement spécifique.
+
+L'ensemble de ces règlements visera a assurer la sécurité de tous.
+
+
+== Licences
+
+WARNING: "Copy it right !"
+    L'ensemble du contenu de ce site est couvert par les +++<u>+++2 licences+++</u>+++ ci-dessous :
+
+. xref:./cc-by-nc-sa.adoc[CC-BY-NC-SA (texte complet - EN)] résumé ci-dessous :
+** Vous êtes autorisé à :
+*** *Partager* -- copier, distribuer et communiquer le matériel par tous moyens et sous tous formats
+*** *Adapter* -- remixer, transformer et créer à partir du matériel
+** Selon les conditions suivantes :
+*** *Attribution* -- Vous devez créditer l'oeuvre, intégrer un lien vers la licence et indiquer si des modifications ont été effectuées à l'oeuvre. Vous devez indiquer ces informations par tous les moyens raisonnables, sans toutefois suggérer que l'Offrant vous soutient ou soutient la façon dont vous avez utilisé son oeuvre.
+*** *Pas d'utilisation commerciale* -- Vous n'êtes pas autorisé à faire un usage commercial de cette oeuvre, tout ou partie du matériel la composant.
+*** *Partage dans les mêmes conditions* -- Dans le cas où vous effectuez un remix, que vous transformez, ou créez à partir du matériel composant l'oeuvre originale, vous devez diffuser l'oeuvre modifiée dans les même conditions, c'est-à-dire avec la même licence avec laquelle l'oeuvre originale a été diffusée.
+*** *Pas de restrictions complémentaires* -- Vous n'êtes pas autorisé à appliquer des conditions légales ou des mesures techniques qui restreindraient légalement autrui à utiliser l'oeuvre dans les conditions décrites par la licence.
+
+. xref:./common_gfdl1.2_i.adoc[GNU Free Software Foundation (texte complet - EN)]
 
 
 ////
@@ -189,33 +236,3 @@ Project starts 2020-09-01
 @endwbs
 ----
 ////
-
-
-
-== Définition
-
-Le *FABeLABe* est un fablab orienté principalement vers la réalisation de modèles éprouvés pour leur efficacité et leur rusticité apportant une aisance et une maîtrise certaine pour leur maintenance ultérieure. C'est plus un _fab-_ qu'un _lab-_, en opposition à nombre de fablab issus des grandes écoles d'ingénieurs par exemple qui sont plus orientés recherche, en œuvrant dans la matérialisation d'idées (électronique, impression 3D, etc.) plus que dans la réalisation concrètes à l'échelle 1.
-
-* Dans un premier temps, il s'agit de réaliser un prototype et de l'optimiser suite au REX, en se basant sur des principes de réalisation et d'exploitation à faible coût, comme d'efficience ou de portabilité (standardisation de pièces, etc.)
-* Ensuite, une fois le modèle éprouvé et revu, la transmission de compétences au plus grand nombre reste le but ultime, par l'organisation de stages de réalisation, comme de formations d'aide à la conception ou l'assistance à l'auto-réalisation.
-
-
-
-
-== Licences
-
-WARNING: "Copy it right !"
-    L'ensemble du contenu de ce site est couvert par les +++<u>+++2 licences+++</u>+++ ci-dessous :arrow_down:
-
-. xref:./cc-by-nc-sa.adoc[CC-BY-NC-SA (texte complet - EN)] résumé ci-dessous :
- ** Vous êtes autorisé à :
-  *** *Partager* -- copier, distribuer et communiquer le matériel par tous moyens et sous tous formats
-  *** *Adapter* -- remixer, transformer et créer à partir du matériel
- ** Selon les conditions suivantes :
-  *** *Attribution* -- Vous devez créditer l'oeuvre, intégrer un lien vers la licence et indiquer si des modifications ont été effectuées à l'oeuvre. Vous devez indiquer ces informations par tous les moyens raisonnables, sans toutefois suggérer que l'Offrant vous soutient ou soutient la façon dont vous avez utilisé son oeuvre.
-  *** *Pas d'utilisation commerciale* -- Vous n'êtes pas autorisé à faire un usage commercial de cette oeuvre, tout ou partie du matériel la composant.
-  *** *Partage dans les mêmes conditions* -- Dans le cas où vous effectuez un remix, que vous transformez, ou créez à partir du matériel composant l'oeuvre originale, vous devez diffuser l'oeuvre modifiée dans les même conditions, c'est-à-dire avec la même licence avec laquelle l'oeuvre originale a été diffusée.
-  *** *Pas de restrictions complémentaires* -- Vous n'êtes pas autorisé à appliquer des conditions légales ou des mesures techniques qui restreindraient légalement autrui à utiliser l'oeuvre dans les conditions décrites par la licence.
-
-
-. xref:./common_gfdl1.2_i.adoc[GNU Free Software Foundation (texte complet - EN)]

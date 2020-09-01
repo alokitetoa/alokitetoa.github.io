@@ -1,0 +1,112 @@
+font:
+  catalog:
+    Ubuntu:
+      normal: Ubuntu-R.ttf
+      italic: Ubuntu-RI.ttf
+      bold: Ubuntu-B.ttf
+      bold_italic: Ubuntu-BI.ttf
+    UbuntuMono:
+      normal: UbuntuMono-R.ttf
+      italic: UbuntuMono-RI.ttf
+      bold: UbuntuMono-B.ttf
+      bold_italic: UbuntuMono-BI.ttf
+    # M+ 1mn supports ASCII and the circled numbers used for conums
+    M+ 1mn:
+      normal: mplus1mn-regular-ascii-conums.ttf
+      bold: mplus1mn-bold-ascii.ttf
+      italic: mplus1mn-italic-ascii.ttf
+      bold_italic: mplus1mn-bold_italic-ascii.ttf
+    # M+ 1p supports Latin, Latin-1 Supplement, Latin Extended, Greek, Cyrillic, Vietnamese, Japanese & an assortment of symbols
+    # It also provides arrows for ->, <-, => and <= replacements in case these glyphs are missing from font
+    M+ 1p Fallback:
+      normal: mplus1p-regular-fallback.ttf
+      bold: mplus1p-regular-fallback.ttf
+      italic: mplus1p-regular-fallback.ttf
+      bold_italic: mplus1p-regular-fallback.ttf
+  fallbacks:
+    - M+ 1p Fallback
+page:
+  background_color: ffffff
+  layout: portrait
+  margin: [0.75in, 1in, 0.75in, 1in]
+  margin_inner: 1in
+  margin_outer: 1in
+  size: A4
+base:
+  align: left
+  font_color: #565656
+  #font_family: Times-Roman
+  font_family: Ubuntu
+  font_size: 12
+  #line_height_length: 16
+  line_height: $base_line_height_length / $base_font_size
+  font_size_large: round($base_font_size * 1.25)
+  font_size_small: round($base_font_size * 0.85)
+  font_size_min: $base_font_size * 0.75
+  font_style: normal
+  border_color: eeeeee
+  border_radius: 4
+  border_width: 0.5
+vertical_rhythm: $base_line_height_length
+horizontal_rhythm: $base_line_height_length
+vertical_spacing: $vertical_rhythm
+title:
+  page_align: center
+  #page_background_image: image:../assets/introduction.jpg[]
+  page_background_color: #303336
+  page_logo_align: center
+  page_logo_image: image:../images/canopee_logo.svg[scaledwidth=40%]
+  page_title_top: 45%
+  page_title_font_size: 28
+  page_title_font_color: #cccccc
+  page_subtitle_font_size: 22
+  page_subtitle_font_color: #999999
+  page_subtitle_font_style: bold_italic
+  page_authors_margin_top: 13.125
+  page_authors_font_size: $base_font_size_large
+  page_authors_font_color: #999999
+heading:
+  font_color: $base_font_color
+  font_family: Ubuntu
+  font_style: bold
+  # h1 is used for part titles (book doctype only)
+  h1_font_size: floor($base_font_size * 2.6)
+  # h2 is used for chapter titles (book doctype only)
+  h2_font_size: floor($base_font_size * 2.15)
+  h3_font_size: round($base_font_size * 1.7)
+  h4_font_size: $base_font_size_large
+  h5_font_size: $base_font_size
+  h6_font_size: $base_font_size_small
+  line_height: 1
+  margin_top: $vertical_rhythm * 0.4
+  margin_bottom: $vertical_rhythm * 0.9
+  h3_font_color: #303336
+  h2_font_color: #56b0c9
+  #font_size: 17
+  #font_style: bold
+  #line_height: 1.2
+  #margin_bottom: $vertical_rhythm
+link:
+  font_color: #428bca
+outline_list:
+  indent: $base_font_size * 1.5
+header:
+  height: 0.75in
+  line_height: 1
+  recto_content:
+    center: "Canopée"
+  verso_content:
+    center: 'Canopée'
+footer:
+  height: 0.75in
+  line_height: 1
+  recto_content:
+    right: '{chapter-title} | *{page-number}*'
+  verso_content:
+    left: '*{page-number}* | {chapter-title}'
+image:
+  align: center
+caption:
+  align: center
+  font_color: #333333
+  font_size: 10

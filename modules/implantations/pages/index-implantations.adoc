@@ -1,13 +1,34 @@
 = Implantations
 
+Les différentes activités de l'association {cyc} requièrent des locaux conséquents, car il est question de *stocker* pour _recycler_, *transformer* pour _upcycler_ et *former* pout _transmettre_ notre virus ...
+
+
 == Stockage
 
+Le premier bâtiment essentiel à notre activité est un *entrepôt de stockage*, uniquement dédié à cette fonction.
+
+Voir la page dédiée : xref:entrepot-mrs.adoc[Entrepôt]
 
 
 == Transformations
 
+Le deuxième bâtiment tout aussi essentiel sera un *Atelier* ou nous pourrons effectuer toute sorte de travaux, de la maintenance de véhicules à la réalisation de prototypes à l'échelle 1 dans nos domaines de prédilection.
 
+Voir la page dédiée : xref:atelier-fabrication.adoc[Atelier]
 
 == Formations
 
+Puisque notre objet est de tester puis transmettre, nous aurons aussi besoin d'un espace permettant d'effectuer des formations sur site, ou de les réaliser à proximité du public visé.
 
+Voir les pages dédiées : xref:caravane-formation.adoc[formation1] et xref:caravane-formation.adoc[formation2]
+
+
+== Zone d'influence
+
+Nous ne souhaitons pas avoir de rayonnement mondial ... car nous sommes persuadés que la meilleure efficacité d'une action de transmission réside en tissant un maillage de relations au niveau local, c.à.d _régional_ .
+
+Ce qui nous intéresse, c'est de toucher un public désireux de changement, en les motivant pour atteindre leur buts.
+
+Après, _pourquoi pas_ étendre notre rayon d'action au bassin Méditerranéen -> on en reparle dans 10 ans!
+
+Voire la page dédiée : xref:zone-influence.adoc[Zonage]
