@@ -30,6 +30,7 @@ Le bâtiment que nous connaissons nécessite les fonctions minimales suivantes :
 * frais réduits de location
 * bail de longue durée, idéalement de type emphytéotique, sinon convention d'occupation.
 
+////
 ??? info "Statut projet"
 
 ....
@@ -61,3 +62,4 @@ Le bâtiment que nous connaissons nécessite les fonctions minimales suivantes :
     * [ ] formation (assistance à réalisation)
     * [ ] réalisation par autrui
 ....
+////

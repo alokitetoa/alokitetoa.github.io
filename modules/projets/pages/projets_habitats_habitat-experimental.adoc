@@ -1,0 +1,91 @@
+// Habitat expérimental
+
+=== Habitat "primitif"
+
+Ré-éditer la réalisation (provisoire ou définitive) d'habitats "primitifs", et au travers de ces réalisations :
+
+* s'approprier les techniques de construction sur des matériaux naturels
+* expérimenter un cadre bâti différent
+* transmettre le plaisir du travail manuel lors de construction en groupe (thérapie? socialisation? ...)
+
+Nous aimerions réaliser les constructions "primitives" suivantes
+
+* "Hogan" _Navajo_ : le plaisir d'être dans une hutte ronde
++
+image::gopr0243.jpg[]
++
+* "Maison longue" _Gauloise_ : le retourt aux sources
++
+.maison gauloise moderne
+image::maison-gauloise.jpg[]
++
+* "Tipi" _Indien_ ou yourte _mongole_, idéal pour passer quelques mois en pleine nature, ou plus ...
++
+[cols="2*a","^.^"]
+|===
+^.^| .yourte
+image::file.png[200]
+| .tipi
+image::tipi.png[200]
+|===
+
+
++
+
+
+
+
+
+
+=== Habitat "alternatif"
+
+Expérimenter d'autres façons d'habiter, en accord avec les profonds changements à venir, tant climatiques qu'économiques ...
+
+* Yourte moderne : *"Héliyourte"* (charpente autoportante)
++
+.intérieur d'une héliyourte montrant sa charpente extrêmement résistante
+image::coupole 2-crop-u6522.jpg[]
++
+* *"Tiny House"* : maisonettes mobiles (mode "US" gagnant nos contrées)
++
+.une Tiny house luxueuse destinée à rester à demeure (la remorque a perdu le timon ...)
+image::maxresdefault.jpg[]
+
+=== Principales difficultés
+
+* respect des règles d'urbanisme
+* terrain d'implantation
+
+////
+??? info "Statut projet"
+
+....
+=== "Priorité"
+    * [x] basse
+    * [ ] moyenne
+    * [ ] importante
+    * [ ] élevée
+
+=== "Avancement"
+    * [x] en attente
+    * [ ] démarré
+    * [ ] en cours
+    * [ ] terminé
+    * [ ] déployé
+
+=== "Conception"
+    * [ ] esquisse
+    * [ ] avant-projet
+    * [ ] projet
+
+=== "Réalisation"
+    * [ ] prototype : réalisation & essais
+    * [ ] optimisation suite REX
+    * [ ] modèle 001
+    * [ ] documentation (manuels & plans)
+
+=== "Déploiement"
+    * [ ] formation (assistance à réalisation)
+    * [ ] réalisation par autrui
+....
+////

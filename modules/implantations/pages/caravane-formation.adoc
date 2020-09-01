@@ -15,6 +15,7 @@ Offrir des formations "sur site" en se déplaçant au plus près des intéressé
 * trouver une "caravane" adaptée à la réception de public, type unité mobile médecine du travail
 * avoir le véhicule adapté pour la tracter ...
 
+////
 ??? info "Statut projet"
 
 ....
@@ -46,3 +47,5 @@ Offrir des formations "sur site" en se déplaçant au plus près des intéressé
     * [ ] formation (assistance à réalisation)
     * [ ] réalisation par autrui
 ....
+
+////

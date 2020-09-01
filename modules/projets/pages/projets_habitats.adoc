@@ -1,0 +1,15 @@
+[#projets-habitats]
+= Habitats
+
+== Maisons en paille porteuse
+
+include::projets_habitats_paille-porteuse.adoc[]
+
+== Habitats expérimentaux
+
+include::projets_habitats_habitat-experimental.adoc[]
+
+== Poëles de masse
+
+include::projets_habitats_poele-masse.adoc[]
+

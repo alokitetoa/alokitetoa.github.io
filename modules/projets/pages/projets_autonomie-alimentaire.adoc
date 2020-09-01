@@ -1,0 +1,12 @@
+[#projets-alimentations]
+= Autonomie alimentaire
+
+== Aquaponie
+
+include::projets_autonomie-alimentaire_aquaponie.adoc[]
+
+
+== Cultures expérimentales
+
+include::projets_autonomie-alimentaire_cultures-experimentales.adoc[]
+

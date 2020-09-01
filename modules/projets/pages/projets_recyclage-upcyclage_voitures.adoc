@@ -1,0 +1,20 @@
+[#voitures]
+=== Voitures
+
+==== Principe
+
+* récupération et remise en état de véhicules solides et peu onéreux en coût d'usage, afin de les distribuer aux intéressés n'ayant pas les moyens de s'offrir le dernier SUV électrique à la mode ...
+* assister les membres motivés dans l'autoréparation de leur propre véhicule
+* récupérer les divers polluants issus d'une maintenance classique (huiles, gaz frigorigènes, etc.) pour s'assuere de leur traitement en centre plutôt que de les voir répandus dans les décharges sauvages ...
+
+
+==== Implémentation
+
+* Atelier de réparation automobile classique
+
+
+==== Difficultés
+
+* local spécifique dédié à cette activité, disposé de façon centrale dans Marseille, afin de permettre l'accès à tous
+* équipement de réparation automobile spacieux et sûr, aux normes en vigueur actuellement
+* espace tampon de parking pour véhicules en attente ...

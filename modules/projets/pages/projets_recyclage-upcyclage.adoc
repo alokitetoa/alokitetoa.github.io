@@ -1,0 +1,20 @@
+[#projets-recyclage]
+= Recyclage-Upcyclage
+
+C'est le coeur de l'ensemble de nos projets.
+
+CYCLUP agit pour un recyclage intelligent, à échelle humaine.
+
+== Véhicules
+
+include::projets_recyclage-upcyclage_velos.adoc[]
+
+include::projets_recyclage-upcyclage_voitures.adoc[]
+
+
+== Matériaux
+
+include::projets_recyclage-upcyclage_materiaux.adoc[]
+
+
+

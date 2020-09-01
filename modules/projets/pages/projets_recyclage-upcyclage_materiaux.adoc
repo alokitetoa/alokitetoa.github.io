@@ -1,0 +1,29 @@
+[#matériaux]
+=== Matériaux
+
+La récupération de matériaux contribue à diminuer les activités de fabrication générant des gaz a effet de serre par leur réemploi et permet de protéger l'environnement contre les décharges sauvages
+
+==== Principe
+
+* récupération de matériaux de bâtiment, remise en état et vente aux particuliers
+* récupération des matériaux polluants issus dd'opérations de maintenance ou de recyclage de véhicules, afins de traitement en centre spécialisé (huiles, fréon, batteries, etc.)
+* récupération de matériaux pouvant être transformés :
+** plastiques en carburant diesel
+** huile végétale en carburant
+** bois en combustible
+
+==== Implémentation
+
+* achats par lots ou récupération in-situ avant démolition de tous matériaux & matériels pouvant avoir une seconde vie ...
+* remise en état, stockage & catalogage
+* mise en vente sur un site internet dédié
+
+
+==== Difficultés
+
+* local d'entreposage sûr (anti-intrusions)
+* espace important ...
+* moyens logiciels professionnels permettant :
+** une gestion centralisée d'une base de donnée permettant d'avaoir l'état du stock en temps réel
+** des ventes automatisées sur un site web pro relié à cette base de donnée
+* personnel dédié (formé spécifiquement)

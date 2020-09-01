@@ -19,6 +19,7 @@
 * terrain pour construction ?
 * éloignement par rapport au voisinage pour diminution des nuisances
 
+////
 ??? info "Statut projet"
 
 ....
@@ -50,3 +51,5 @@
     * [ ] formation (assistance à réalisation)
     * [ ] réalisation par autrui
 ....
+
+////

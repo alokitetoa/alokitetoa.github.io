@@ -12,15 +12,25 @@ content:
     - url: .
       branches: master
     # # Uncomment to build from the remote github repository.
-    # - url: https://github.com/alokitetoa/cyclup.xyz.git
-    
+    #- url: https://github.com/alokitetoa/alokitetoa.github.io.git
+
 ui:
   bundle:
     # still no right menus with default ui
-    url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/master/raw/build/ui-bundle.zip?job=bundle-stable
+    #url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/master/raw/build/ui-bundle.zip?job=bundle-stable
     # right menus per page on H2 titles
     #url: https://deepsymmetry.org/media/antora/ui-bundle.zip
+    #url: https://github.com/boozallen/sdp-docs-skin/releases/download/1.0/ui-bundle.zip
+    # copy of above, to be worked further ...
+    url: ./ui/build/ui-bundle.zip
     snapshot: true
+
+  supplemental_files:
+  #- path: ./supplemental-ui
+  - path: .nojekyll
+  - path: ui.yml
+    contents: |
+      static_files: [ .nojekyll]
 
 output:
   clean: true
@@ -29,18 +39,24 @@ output:
   # for github pages
   dir: ./docs
 
+runtime:
+  cache_dir: ./.cache/antora
+  fetch: true
+
 asciidoc:
   attributes:
     doctype: book
-    linkattrs: 
+    linkattrs:
     sectlinks: true
     icons: font
     experimental: true
     page-copyright: 2016–2020
     page-pagination: ''
     lang: fr
-    plantuml-server-url: 'http://www.plantuml.com/plantuml'
+    plantuml-server-url: http://www.plantuml.com/plantuml
     plantuml-fetch-diagram: true
+    extensions:
+      - asciidoctor-plantuml
     toc-title: Sommaire
     warning-caption: Attention
     tip-caption: Conseil
@@ -56,4 +72,5 @@ asciidoc:
     c: icon:file-text-o[role="blue"]
     subl: Sublime Text
     vscode: Visual Studio Code
+    cyc: CYCLUP
 

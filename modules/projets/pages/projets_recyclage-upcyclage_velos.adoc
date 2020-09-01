@@ -1,0 +1,25 @@
+[#velos]
+=== Vélos
+
+La circulation à vélo est enfin revenue à la mode, chacun re-découvrant les charmes et les mérites de la petite reine, surtout depuis les incitations financières de l'état ... et de la prise de conscience grandissante des impératifs de diminution des niveaux de pollution atmosphérique.
+
+==== Principe
+
+* Récupérer et remettre en état les innombrables vélos délaissés pour les redistribuer aux populations nécessiteuses
+* former les membres de l'association à l'autoréparation de leur propre 2 roue
+* électrifier les vélos dont les caractéristiques le permettent
+
+==== Implémentation
+
+* stockage dans le local affecté à cet usage (entrepôt)
+* travaux de maintenance dans le local spécifiquement affecté à cet usage (atelier)
+
+==== Difficultés
+
+* accès à des stocks de vélos :
+** vente aux enchères de lots
+** annonces gratuites
+* équipement de maintenance de vélos
+* camionnette de transport
+* sélection des meilleurs kits d'électrification de vélos (rapport qualité/prix)
+

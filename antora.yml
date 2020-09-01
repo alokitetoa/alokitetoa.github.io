@@ -1,4 +1,4 @@
-# Uncomment name and title to build 
+# Uncomment name and title to build
 name: Cyclup
 title: Cyclup
 
@@ -21,11 +21,11 @@ nav:
   # Implantations
   - modules/implantations/nav-implantations.adoc
 
-  # # Guides pratiques
-  # - modules/guides/nav-guides.adoc
+  # Projets
+  - modules/projets/nav-projets.adoc
 
-  # # Notions concrètes
+  # # Notions concrï¿½tes
   # - modules/notions/nav-notions.adoc
 
-  # # Références techniques
+  # # Rï¿½fï¿½rences techniques
   # - modules/references/nav-references.adoc

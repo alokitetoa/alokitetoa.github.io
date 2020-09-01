@@ -1,0 +1,47 @@
+<header class="header" role="banner">
+  <nav class="navbar">
+    <div class="navbar-brand">
+      <div class="navbar-item">
+        <a class="navbar-logo" href="https://cyclup.xyz" target="_blank">
+          <img class="logo" alt="logo" src="../img/logo_cyclup.svg"/>
+        </a>
+      </div>
+      <div class="navbar-item">
+        <a href="https://cyclup.xyz">CYCLUP</a>
+        <span class="separator">//</span>
+        <a href="{{or site.url (or siteRootUrl siteRootPath)}}">Association</a>
+      </div>
+      <button class="navbar-burger" data-target="topbar-nav">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+    </div>
+    <div id="topbar-nav" class="navbar-menu">
+      <div class="navbar-end">
+        <div class="navbar-item has-dropdown is-hoverable">
+          <div class="navbar-link">Association</div>
+          <div class="navbar-dropdown">
+            <div class="navbar-item"><strong>Satuts</strong></div>
+            <a class="navbar-item" href="{{site.url}}/{{page.component.name}}/{{page.version}}/_attachments/ressources-formateurs.pdf" target="_blank">
+              <i class="fas fa-terminal"></i>&nbsp;PDF
+            </a>
+            <a class="navbar-item" href="https://github.com/alokitetoa/alokitetoa.github.io" target="_blank">
+              <i class="fab fa-github"></i>&nbsp;Github Repo
+            </a>
+            <a class="navbar-item" href="https://github.com/alokitetoa/alokitetoa.github.io/issues" target="_blank">
+              <i class="fab fa-github"></i>&nbsp;Problème ?
+            </a>
+            <a class="navbar-item" href="https://paypal.me/antropyk?locale.x=fr_FR" target="_blank">
+              <i class="fab fa-btc"></i>&nbsp;Pourboire
+            </a>
+          </div>
+        </div>
+        </div>
+        <a id="twitter-link" class="navbar-item" href="https://twitter.com/antropyk" target="_blank">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </div>
+    </div>
+  </nav>
+</header>

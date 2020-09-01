@@ -1,0 +1,15 @@
+[#projets-autonomie]
+= Autonomie énergétique
+
+== Transformation de plastique en diesel
+
+include::projets_autonomie-energetique_plastic2diesel.adoc[]
+
+== Huile végétale usagée
+
+include::projets_autonomie-energetique_huile2carburant.adoc[]
+
+== Gazogène bois verts/résineux
+
+include::projets_autonomie-energetique_gazogene.adoc[]
+

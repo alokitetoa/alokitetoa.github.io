@@ -6,13 +6,191 @@
 
 == Objectifs
 
+image:200831_logo_cyclup.svg[Multirepo SSG,200,float=right]
 Modéliser, réaliser et tester des démonstrateurs à l'échelle 1 dans les domaines suivants :
 
 . Autonomie énergétique
 . Autonomie alimentaire
 . Habitat résilient
 
-Ces domaines sont détaillés à l'onglet *Projets*
+Ces domaines sont détaillés à l'onglet xref:projets/projets-index.adoc[projets]
+
+
+////
+***
+
+[plantuml, diagram-classes, png]
+....
+@startuml
+class BlockProcessor
+class DiagramBlock
+class DitaaBlock
+class PlantUmlBlock
+
+BlockProcessor <|-- DiagramBlock
+DiagramBlock <|-- DitaaBlock
+DiagramBlock <|-- PlantUmlBlock
+@enduml
+....
+
+***
+
+[plantuml,mindmap2,svg]
+----
+@startmindmap
++ myThoughts
+++ Thought 1
+'tag::details[]
++++_ Thought 1.1
++++_ Thought 1.2
+'end::details[]
+++ Thought 2
+++ Thought 3
+
+'tag::left[]
+-- Thought A
+-- Thought B
+-- Thought C
+'end::left[]
+@endmindmap
+----
+
+***
+
+[plantuml,alice,svg]
+----
+@startuml
+participant Alice
+participant Bob
+note left of Alice #aqua
+This is displayed
+left of Alice.
+end note
+
+note right of Alice: This is displayed right of Alice.
+
+note over Alice: This is displayed over Alice.
+
+note over Alice, Bob #FFAAAA: This is displayed\n over Bob and Alice.
+
+note over Bob, Alice
+This is yet another
+example of
+a long note.
+end note
+@enduml
+----
+
+***
+
+[plantuml,compo,svg]
+----
+@startuml component
+actor client
+node app
+database db
+
+db -> app
+app -> client
+@enduml
+----
+
+***
+
+
+[plantuml,comosants,svg]
+----
+@startuml
+actor actor
+agent agent
+artifact artifact
+boundary boundary
+card card
+cloud cloud
+collections collections
+component component
+control control
+database database
+entity entity
+file file
+folder folder
+frame frame
+interface interface
+label label
+node node
+package package
+queue queue
+stack stack
+rectangle rectangle
+storage storage
+usecase usecase
+@enduml
+----
+
+***
+
+[plantuml,activi,svg]
+----
+@startuml
+start
+if (condition A) then (yes)
+:Text 1;
+elseif (condition B) then (yes)
+:Text 2;
+stop
+elseif (condition C) then (yes)
+:Text 3;
+elseif (condition D) then (yes)
+:Text 4;
+else (nothing)
+:Text else;
+endif
+stop
+@enduml
+----
+
+***
+
+[plantuml,gantt1,svg]
+----
+@startuml
+Project starts 2020-09-01
+[Design du prototype] lasts 10 days
+[Codage du prototype] lasts 10 days
+[Ecriture des tests] lasts 5 days
+[Documentation] lasts 5 days
+[Codage du prototype] starts at [Design du prototype]'s end
+[Ecriture des tests] starts at [Codage du prototype]'s start
+[Documentation] starts at [Codage du prototype]'s end
+@enduml
+----
+
+***
+
+[plantuml,wbs1,svg]
+----
+@startwbs
++ New Job
+++ Decide on Job Requirements
++++ Identity gaps
++++ Review JDs
+++++ Sign-Up for courses
+++++ Volunteer
+++++ Reading
+++- Checklist
++++- Responsibilities
++++- Location
+++ CV Upload Done
++++ CV Updated
+++++ Spelling & Grammar
+++++ Check dates
+---- Skills
++++ Recruitment sites chosen
+@endwbs
+----
+////
+
+
 
 == Définition
 
@@ -21,9 +199,12 @@ Le *FABeLABe* est un fablab orienté principalement vers la réalisation de mod�
 * Dans un premier temps, il s'agit de réaliser un prototype et de l'optimiser suite au REX, en se basant sur des principes de réalisation et d'exploitation à faible coût, comme d'efficience ou de portabilité (standardisation de pièces, etc.)
 * Ensuite, une fois le modèle éprouvé et revu, la transmission de compétences au plus grand nombre reste le but ultime, par l'organisation de stages de réalisation, comme de formations d'aide à la conception ou l'assistance à l'auto-réalisation.
 
+
+
+
 == Licences
 
-!!! warning "Copy it right !"
+WARNING: "Copy it right !"
     L'ensemble du contenu de ce site est couvert par les +++<u>+++2 licences+++</u>+++ ci-dessous :arrow_down:
 
 . xref:./cc-by-nc-sa.adoc[CC-BY-NC-SA (texte complet - EN)] résumé ci-dessous :
