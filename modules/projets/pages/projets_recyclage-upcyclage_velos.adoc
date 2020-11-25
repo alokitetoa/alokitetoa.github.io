@@ -23,3 +23,33 @@ La circulation à vélo est enfin revenue à la mode, chacun re-découvrant les 
 * camionnette de transport
 * sélection des meilleurs kits d'électrification de vélos (rapport qualité/prix)
 
+
+.Synthèse projets "upcyclage"
+[%autowidth.stretch,cols="5*a"]
+|===
+5+^.^h| [red]#Upcyclage -> vélos#
+^h|Priorité ^h|Avancement ^h|Conception ^h|Réalisation ^h|Déploiement
+
+|* [ ] basse
+* [ ] moyenne
+* [x] importante
+* [ ] élevée
+
+|* [x] en attente
+* [ ] démarré
+* [ ] en cours
+* [ ] terminé
+* [ ] déployé
+
+|* [x] esquisse
+* [ ] avant-projet
+* [ ] projet
+
+|* [ ] prototype 00
+* [ ] optimisation suite REX
+* [ ] modèle 001
+* [ ] documentation (manuels & plans)
+
+|* [ ] formation/assistance
+* [ ] réalisation autonome
+|===

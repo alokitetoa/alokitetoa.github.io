@@ -1,0 +1,336 @@
+:doctype: book
+:encoding: utf-8
+:author: Olivier Turlier
+:email: o.turlier@gmail.com
+:copyright: CC-BY-NC-SA 4.0
+:icons: font
+:experimental:
+:lang: fr
+:toc: left
+:part-signifier: Partie
+:chapter-label: Chapitre
+:appendix-caption: Annexe
+:toc-title: Sommaire
+:toclevels: 2
+:numbered:
+:sectnumlevels: 3
+:warning-caption: Attention
+:tip-caption: Conseil
+:note-caption: Info
+:y: icon:check[role="green"]
+:n: icon:times[role="red"]
+:c: icon:file-text-o[role="blue"]
+:math:
+:stem: latexmath
+:eqnums: yes
+:mathematical-format: svg
+:linkattrs:
+:data-uri:
+// pour sommaire auto-collapsable ala read the docs). on doit aussi ajouter un docinfo.html + equations chimiques en docinfo-footer.html
+:nofooter:
+// footer txt reimplaced by docinfo-footer.html
+:docinfo: shared
+//:docinfo: shared,head,footer
+
+
+= L’association loi 1901
+
+NOTE: _texte issu de ce https://www.legalplace.fr/guides/association-loi-1901/[site]_
+
+Une association est consacrée par la loi du 1er juillet 1901. Ce texte de loi définit notamment le statut juridique des structures associatives, ainsi que les différentes formes d’associations.
+
+En principe, une association est à but non lucratif. Le caractère désintéressé d’une association interdit donc la distribution de bénéfices aux associés. Ainsi, tout individu ayant un projet ou une cause commune qui lui tient à cœur est libre de s’engager dans une association, indépendamment de son âge, sa nationalité ou ses compétences.
+
+== Qu’est-ce qu’une association consacrée par la loi du 1er juillet 1901 ?
+=== Définition d’une association
+
+Une association est, selon la loi du 1er juillet 1901, une convention en vertu de laquelle deux personnes au moins décident de partager leurs connaissances et/ou leur activité dans un but autre que le partage des bénéfices ou la recherche de profit. Ainsi, elle se distingue d’une société classique (SAS, SASU, SARL, SCI).
+
+C’est la loi du 1er juillet 1901 susvisée qui fixe le cadre juridique de l’association type loi 1901. Ce texte dispose que l’association est, par principe, à but non lucratif.
+
+Ainsi, il est impossible de créer une association à but lucratif : cela entrerait en contradiction avec les principes généraux régissant le régime juridique de l’association. Si les membres de l’association recherchent le profit, il sera préférable de se tourner vers la création d’une société.
+
+Connaître les coûts relatifs à la création d’une association.
+Attention : la loi du 1er juillet 1901 s’applique à toutes les associations, sauf celles ayant leur siège social situé en Alsace-Moselle (départements du Bas-Rhin, du Haut-Rhin et de la Moselle). Le régime juridique des associations situées dans ces départements est régi par la loi de 1908.
+
+=== Le régime juridique de l’association loi 1901
+
+Comme vu précédemment, la loi du 1er juillet 1901 fixe le cadre général du régime juridique du contrat d’association. Il doit reposer sur trois principes fondamentaux :
+
+. La liberté contractuelle : le texte de loi du 1er juillet 1901 laisse une pleine liberté aux membres de l’association concernant son organisation. Ce sont donc les statuts qui vont veiller au bon fonctionnement de l’association . C’est la raison pour laquelle leur rédaction est une étape cruciale. Cependant, le contrat doit veiller à respecter les conditions de validité posées par le droit commun des contrats à l’article 1128 du Code civil, c’est-à-dire le consentement non vicié des parties, la capacité juridique des parties et la cause licite du contrat d’association ;
+. La gestion désintéressée : la recherche du profit et du partage des bénéfices est interdite. C’est la raison pour laquelle une association doit respecter le principe d’une gestion désintéressée (association à but non lucratif) ;
+. La mise en commun des connaissances : les membres fondateurs doivent décider de créer cet organisme pour mettre en commun leurs connaissances et/ou leur activité afin d’œuvrer au bien commun.
+
+== Quelles sont les différentes formes d’association ?
+
+Il existe différents types d’associations loi 1901 :
+
+
+[horizontal]
+L’association « de fait » ou non déclarée:: il s’agit des associations non déclarées en préfecture. En effet, ces dernières ont été constituées sans accomplir les formalités de déclaration ; +
++
+WARNING: Une association de fait ne possède pas la capacité juridique. Ce n’est donc pas une personne morale à part entière. Cela signifie qu’elle ne peut pas produire des actes en son nom.
+
+L’association déclarée:: à l’inverse, la création d’une association déclarée nécessite l’accomplissement de certaines formalités administratives. En effet, l’association doit être déclarée à la préfecture du département de son siège social et faire l’objet d’un avis de publication au Journal Officiel (JOAFE). Ces démarches permettent d’acquérir la personnalité juridique et donc de pouvoir conclure des actes en son nom ;
++
+NOTE: il est possible de déclarer son association en ligne.
+
+L’association agréée:: ce type d’association reçoit un agrément donné par décision ministérielle ou par une autorité administrative. Elle jouit de nombreux avantages, notamment au niveau financier. En effet, l’agrément lui permet de recevoir des subventions et des dons. Toutefois, pour recevoir des subventions, l’association devra posséder un numéro SIRET ;
++
+WARNING: Une association agréée doit respecter plus d’obligations qu’une association classique. Elle doit notamment tenir une comptabilité transparente. Elle est également tenue de transmettre régulièrement des informations à l’autorité administrative qui lui a attribué l’agrément, notamment sur ses activités.
+
+L’association reconnue d’utilité publique:: une association peut être reconnue d’utilité publique par l’État. Cela lui permet de bénéficier d’une certaine notoriété, ainsi que d’encourager les dons. Toutefois, pour obtenir le statut d’association reconnue d’utilité publique, il convient de remplir certaines conditions. En particulier, elle doit œuvrer pour l’intérêt général, jouir d’un certain rayonnement, être tangible d’un point de vue financier et exister depuis au moins trois ans ;
+
+L’association reconnue d’intérêt général:: à ne pas confondre avec l’association reconnue d’utilité publique évoquée ci-dessus. Ce statut offre avant tout des avantages fiscaux : il permet aux associations de délivrer des reçus fiscaux à ses donateurs afin que ces derniers bénéficient de réductions fiscales. Cela peut être le cas d’une association caritative par exemple.
++
+WARNING: Certains contrôles peuvent avoir lieu afin de vérifier la régularité des reçus fiscaux délivrés par les associations.
+
+=== Quels sont les avantages d’une association ?
+
+Bien que la création d’une association ne permette pas de partager des bénéfices, elle facilite la mise en œuvre d’un projet culturel, sportif, caritatif et éducatif afin de venir en aide à de nombreuses personnes. Ainsi, créer un organisme associatif est :
+
+* *Simple* : les formalités sont simplifiées et se font rapidement. Il est même possible de créer une association en ligne.
+* *Peu coûteux* : la création d’une association ne requiert pas la mise à disposition d’un capital social bloqué comme pour une société.
+
+Le fonctionnement simplifié de l’association fait également partie de ses avantages. En effet, une association :
+
+* Bénéficie d’une franchise de TVA et d’impôts, à condition de ne pas dépasser le seuil de chiffre d’affaires pour celle qui exerce une activité économique ;
+* *A recours au bénévolat* pour faire fonctionner la structure associative ;
+* Peut choisir de tenir une comptabilité minimale (enregistrement des encaissements et des décaissements) ;
+* Peut profiter des *aides et subventions* pour les associations.
+
+.avantages & inconvénients
+[%autowidth.stretch,cols="2*.<",options="header*^"]
+|===
+^|Avantages d’une association ^|Inconvénients d’une association
+
+|Absence de capital social
+|Absence de partage des bénéfices entre les membres
+
+|Pas de cotisations sociales
+|Difficulté pour emprunter auprès des banques
+
+|Une fiscalité avantageuse (franchise de TVA)
+|Perte de l’exonération fiscale si exercice d’une activité lucrative
+
+|Une comptabilité peu contraignante
+|Responsabilité civile et pénale des dirigeants
+
+|Des aides et subventions
+|
+|===
+
+== Comment rédiger les statuts d’une association ?
+
+Lorsque deux ou plusieurs personnes décident de créer une association, il faut tout d’abord rédiger les statuts de l’association. Cette étape est essentielle car les statuts vont fixer les règles de fonctionnement, de gouvernance et d’organisation.
+
+=== Les mentions obligatoires
+
+Conformément au texte de loi, une grande liberté contractuelle est laissée aux membres quant à la rédaction des dispositions statutaires. Néanmoins, il est recommandé de mentionner :
+
+* *Le nom* ;
+* *L’objet*, c’est-à-dire son domaine d’activité et son champ d’action ;
+* *L’adresse de son siège social* : situé au domicile personnel de l’un des membres fondateurs ou dans un local loué ou appartenant à l’association ;
+* *Les conditions d’adhésion des membres* : les membres peuvent être tenus de payer une cotisation ou remplir un formulaire d’adhésion ;
+* *Les règles de fonctionnement* : pourront être désignés les membres du bureau. En principe, le bureau d’une association se compose d’un président (qui pourra être éventuellement suppléé par un vice-président), un secrétaire général et un trésorier ;
+* Les modalités de *modification des statuts* ;
+* Les modalités et les causes pouvant mener à la *dissolution de l’association*.
+
+Par ailleurs, dans certains cas spécifiques, il est obligatoire d’inclure des dispositions particulières dans les statuts. C’est le cas des associations situées dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle régis par la loi de 1908.
+
+Les associations créées dans ces départements doivent faire figurer dans leurs statuts plusieurs dispositions, à l’instar des conditions d’entrée et de sortie des membres, des contributions financières éventuelles des membres ainsi que des modalités de convocation des membres à une assemblée générale.
+
+NOTE: Une association sportive souhaitant obtenir un agrément de l’État doit inclure dans ses statuts des dispositions garantissant son fonctionnement démocratique, sa transparence fiscale ainsi que sa gestion paritaire.
+
+Avant de rédiger les statuts, il convient de se renseigner au préalable sur les éventuelles obligations auxquelles les membres pourraient être soumis.
+
+=== Le règlement intérieur d’une association : un complément des statuts
+
+L’association peut compléter les dispositions statutaires par la rédaction d’un règlement intérieur. En principe, la rédaction d’un règlement intérieur n’est nullement obligatoire mais peut permettre de préciser certaines règles de fonctionnement et d’organisation.
+
+Toutefois, il convient de noter que dans certains cas, *la loi rend obligatoire la rédaction d’un règlement intérieur*. Il s’agit des associations :
+
+* Sportives rattachées à une fédération agréée ;
+* Reconnues d’utilité publique (RUP) ;
+* Associations agréées de pêche et de protection du milieu aquatique ;
+* Associations bénéficiant de fonds publics.
+
+Comme précisé précédemment, la loi n’impose nullement le contenu du règlement intérieur. Néanmoins, pour avoir de la valeur aux yeux des membres, il pourra être utile de préciser certaines règles telles que les modalités d’adhésion, le respect de certaines règles de discipline, la gouvernance (notamment les membres du bureau) ainsi que les règles concernant l’accès au matériel et aux locaux.
+
+Par ailleurs, le règlement intérieur pourra assortir ces mesures de sanctions en cas de violation des dispositions du règlement par l’un des membres (exclusion temporaire par exemple).
+
+NOTE: Pour être respecté et connu de tous, il est vivement conseillé d’afficher le règlement intérieur dans les locaux de l’association, voire de le rendre accessible sur son site web. Il pourra être prévu de le faire signer par les nouveaux membres lors de leur adhésion à celle-ci.
+
+== Le fonctionnement d’une association : comment ça marche ?
+
+Comme nous l’avons déjà évoqué, le fonctionnement d’une association est, en principe, *organisé dans les statuts*, voire le règlement intérieur.
+
+Toutefois, la loi impose une gestion désintéressée. Cela signifie que *l’association ne doit rechercher ni le profit*, ni le partage des bénéfices. Cela n’interdit pas la recherche de sources de financement (via les cotisations des membres ou les subventions par exemple).
+
+Par ailleurs, il est possible d’embaucher des salariés. Dans ce cas, il convient de rédiger un contrat de travail (CDI ou CDD notamment). À ce titre, les salariés percevront une rémunération en contrepartie d’une prestation de travail.
+
+De surcroît, afin de veiller au bon fonctionnement de l’association, *il est recommandé de nommer des organes de gouvernance*. À ce titre, un bureau pourra être désigné dans les statuts. Ce bureau est composé de divers membres :
+
+* *Le président* chargé de représenter l’association vis-à-vis des tiers. Il est également le représentant légal et à ce titre, il devra donc apparaître sur tous les documents officiels de l’organisme ;
+* *Le secrétaire général*, chargé de l’accomplissement de toutes les formalités administratives ;
+* *Le trésorier* qui devra assurer la transparence comptable et fiscale.
+
+Le Président est considéré comme le dirigeant de l’association. À ce titre, il est possible qu’il perçoive une rémunération. Dans ce cas, la rémunération du Président de l’association doit être prévue dans les statuts de celle-ci.
+
+En revanche, une association ne peut utiliser ni les subventions ni les fonds publics qu’elle perçoit pour rémunérer ses dirigeants. Si elle décide de rémunérer ses dirigeants, elle doit donc disposer de ressources financières suffisantes. Selon le montant de ses ressources financières sur les trois derniers exercices clos, *voici le nombre de dirigeants pouvant prétendre à une rémunération* :
+
+[%autowidth.stretch,cols=".<2,^",options="header*^"]
+|===
+^|Montant des ressources de l’association (3 derniers exercices clos) ^|Nombre de dirigeants pouvant prétendre à une rémunération
+
+|Inférieures à 200 000€
+|0
+
+|Égales ou supérieures à 200 000€
+|1
+
+|Égales ou supérieures à 500 000€
+|2
+
+|Égales ou supérieures à 1 000 000€
+|3
+|===
+
+
+== Quel est le régime fiscal d’une association loi 1901 ?
+
+Comme vu précédemment, une association est, par principe, à but non lucratif. De ce fait, elle est normalement exonérée du paiement des impôts commerciaux (TVA, Contribution Économique Territoriale et impôt sur les sociétés).
+
+En revanche, si une association réalise essentiellement des activités lucratives, alors les recettes enregistrées par celles-ci seront assujetties à l’impôt sur les sociétés (IS). De la même façon, elle peut être assujettie à la TVA et à la Contribution Économique Territoriale (CET) sur ses seules activités lucratives.
+
+NOTE: À ce titre, il peut être conseillé de dissocier les activités lucratives et non lucratives.
+
+Pour apprécier le caractère lucratif de l’association, différents critères doivent être pris en compte :
+
+* la gestion désintéressée ;
+* Sa concurrence éventuelle vis-à-vis du secteur commercial ;
+* Ses méthodes de gestion ;
+* Le montant annuel des recettes qu’elle réalise.
+
+C’est le trésorier qui être responsable de la transparence fiscale. Il sera par ailleurs tenu de préparer le plan comptable de l’association.
+
+NOTE: Selon la taille de l’association, les obligations comptables sont plus ou moins étendues. En particulier, certaines d’entre elles devront consigner dans un registre tous les mouvements et les opérations réalisées par l’organisme de façon chronologique.
+
+
+== FAQ
+
+[horizontal]
+Qu'est-ce qu'une association loi 1901 à but non lucratif ?:: Dans une association type loi 1901 deux personnes (à minima) décident de partager leurs connaissances avec pour objectif autre que la recherche des bénéfices ou le partage du profit.
+
+Est-ce qu'une association peut faire des bénéfices ?:: Elle peut en effet faire des bénéfices depuis des activités commerciales ou encore lucratives. En tant qu'association, vous avez la possibilité de facturer la vente de produits ou prestation de services et d'en dégager un certain profit. La redistribution des bénéfices aux membres est par contre interdite.
+
+Comment fonctionne une association loi 1901 ?:: Le fonctionnement d'une association est défini selon les règles mentionnées dans les statuts ou encore le règlement intérieur. Cependant, il reste recommandé de nommer des organes de gouvernance via un bureau qui pourra être composé de 3 membres : président, secrétaire général et le trésorier.
+
+[plantuml, diagram-classes, png]
+....
+class BlockProcessor
+class DiagramBlock
+class DitaaBlock
+class PlantUmlBlock
+
+BlockProcessor <|-- DiagramBlock
+DiagramBlock <|-- DitaaBlock
+DiagramBlock <|-- PlantUmlBlock
+....
+
+https://trianglify.io/p/w:1440!h:900!x:Reds!v:0.49!c:0.03!s:tfh6sc!f:sp!i:0.448
+
+
+[graphviz, example, svg, align="center"]
+....
+digraph g {
+    a -> b ;
+    b -> c ;
+    c -> d ;
+    d -> a ;
+}
+....
+
+
+[.form]
+[width="100%", cols="1,1,1",frame="none", colsep="0", rowsep="0"]
+|====
+|Поднадзорный объект
+2+.^h|{nbsp}
+|
+2+^|[small]#(наименование объекта капитального строительства, ФЯО)#
+
+|Состояние объекта
+2+.^h|{nbsp}
+|
+2+^|[small]#(завершен строительством и/или указать этапы работ, выполненные по объекту)#
+
+1+|Наличие на объекте системы мониторинга метеоусловий
+2+.^h|{nbsp}
+|
+2+^|[small]#(АСКРО, метеостанция. метеопост и т.п.)#
+|====
+
+
+
+[caption=]
+.AGREED AND ACCEPTED BY :
+[cols="1h,1,1h,1",frame=topbot,grid=rows]
+|===
+|Client:
+|{client-name}
+|Company:
+|Your Company Inc.
+
+|Signature:
+|
+|Signature:
+|image:signature.png[width=82.5]
+
+|Print Name:
+|
+|Print Name:
+|First Last
+
+|Print Title:
+|
+|Print Title:
+|President
+
+|Date:
+|
+|Date:
+|{signature-date}
+
+|Client Email for Notice:
+|
+|Company Email for Notice:
+|pass:[info@yourcompany.com]
+|===
+
+
+
+== Étapes création
+
+La création d’une association (hors associations situées en Alsace-Moselle) est assez simple. Elle requiert l’accomplissement des formalités suivantes :
+
+* Fixer le siège social de l’association ;
+* Rédiger les statuts de l’association ;
+* Réunir l’assemblée générale constitutive (composée de tous les membres fondateurs) afin de décider de la création de l’association ;
+* Déclarer l’association au greffe des associations territorialement compétent et déclarer les personnes en charge de son administration (soit sur papier libre, soit en utilisant les formulaires Cerfa correspondants).
+* demander numéro SIREN
+
+Le greffe des associations procédera alors automatiquement à l’inscription de l’association nouvellement créée au répertoire national des associations (RNA).
+
+Pour avoir la personnalité morale et la capacité juridique, la création de l’association devra faire l’objet d’une publicité au Journal officiel des associations et fondations d’entreprise (JOAFE).
+
+Depuis le 1er janvier 2020, la publication au JOAFE est gratuite.
+
+En pratique, il suffira de préciser la volonté de publication au JOAFE dans le formulaire de déclaration, pour que le greffe des associations transmette la demande à la Direction de l’information légale et administrative (Dila).
+
+Dans l’un des cas suivants, il conviendra également de demander l’attribution d’un numéro SIREN :
+
+* Si l’association souhaite demander des subventions auprès de l’Etat ou des collectivités territoriales ;
+* Si l’association envisage d’embaucher des salariés ;
+* Si l’association exerce des activités qui conduisent au paiement de la TVA ou de l’impôt sur les sociétés.
+

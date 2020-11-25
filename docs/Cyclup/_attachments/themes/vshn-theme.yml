@@ -1,3 +1,4 @@
+extends: default
 font:
   catalog:
     Ubuntu:
@@ -230,6 +231,17 @@ toc:
   indent: $horizontal_rhythm
   line_height: 1.4
 # NOTE In addition to footer, header is also supported
+header:
+  height: $base_line_height_length * 3.5
+  border_color: dddddd
+  border_width: 0.25
+  recto_content:
+    left: 'img:canopee-logo.png[width=120]'
+    center: '{document-title}'
+  verso_content:
+    left: '{header_recto_left_content}'
+    center: '{header_recto_center_content}'
+# footer
 footer:
   font_size: $base_font_size_small
   font_color: $base_font_color

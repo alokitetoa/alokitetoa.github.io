@@ -1,234 +1,45 @@
 = Projets de l'association {cyc}
 
-== Recyclage/Upcyclage de véhicules
-// include::projets_recyclage-upcyclage.adoc[]
+== Approche générale pour l'ensemble des projets
 
-.Principes
-Le coeur de l'activité de l'association {cyc} est centré sur les activités de *Recyclage*, voire *"d'Upcyclage"* footnote:[Récupérer et transformer en augmentant la valeur initiale de l'objet ou du matériau]. +
-Nous dirigeons nos actions de recyclage/upcyclage en faveur des utilisateurs démunis financièrement. L'ensemble des résultats finaux de nos actes doit pouvoir être réutilisé au quotidien et au futur pour tous.
+.Théorie
+Nous nous intéressons au sens large à tous les projets développant une forme certaine de résilience énergétique, en réponse aux enjeux et contraintes futures. Nous destinons nos efforts à la transmission à tous de techniques fiables et reproductibles.
 
-Ce projet sert de base à un ensemble d'actions :
+.Mutualisation des compétences
+Nous avons conscience de faire partie d'un mouvement général porté par de multiples acteurs, tant au niveau régional, que national et même international. +
+Nous souhaitons associer notre démarche avec toutes les instances oeuvrant vers un but similaire au nôtre, tant pour mutualiser les compétences et moyens que pour enrichir un réseau pré-existant ou à créer.
 
-* assistance à *l'autoréparation* de véhicules
-* *formations* d'accompagnement des utilisateurs autour de l'entretien de leur véhicules
-* récupération des *polluants* (huiles, gaz frigorigènes, pièces d'usure ou hors d'usage)
+.Réalisations
+Les projets de l'association {cyc} s'incrivent dans le cadre d'une démarche concrète de modélisation/implémentation/tests/optimisation et visent au fonctionnement robuste de modèles fonctionnels reproductibles par autrui.
 
-.Applications concrètes
-Nous ne pouvons pas tout faire ! Nous avons sélectionné ce qui nous paraît le plus utile et ce qui est dans nos capacités : *les véhicules*. +
-L'application est faite à 2 types de véhicules : +
-
-. *vélos*
-. *voitures et utilitaires*
-
-NOTE: Pour plus de détails sur ces projets, voir la page xref:projets_recyclage-upcyclage.adoc[]
-// <<projets-recyclage>>
-
-.Synthèse projets "upcyclage"
-[%autowidth.stretch,cols="5*a"]
-|===
-5+^.^h| [red]#Recyclage/Upcyclage vélos, voitures et utilitaires#
-^h|Priorité ^h|Avancement ^h|Conception ^h|Réalisation ^h|Déploiement
-
-|* [ ] basse
-* [ ] moyenne
-* [ ] importante
-* [x] élevée
-
-|* [x] en attente
-* [ ] démarré
-* [ ] en cours
-* [ ] terminé
-* [ ] déployé
-
-|* [ ] esquisse
-* [ ] avant-projet
-* [x] projet
-
-|* [ ] prototype 00
-* [ ] optimisation suite REX
-* [ ] modèle 001
-* [x] documentation (manuels & plans)
-
-|* [x] formation/assistance
-* [ ] réalisation autonome
-|===
+.Formations
+Chaque projet est documenté, d'abord pour un usage interne afin d'en tracer l'évolution et puis pour un usage externe pour en permettre l'autoconstruction suite à une formation dispensée par {cyc}. Cette documentation est déclinée en manuels de fabrication, de maintenance et de plans DAO. La diffusion de cette base de connaissance sera assurée directement au travers du {web-cyc}[site web de l'association {cyc}^] sous forme de pages web ou de fichiers imprimables `.pdf` ou DAO footnote:[DAO : Dessin Assisté par Ordinateur] (`.dwg`, etc.)
 
 
-== Autonomie énergétique
-// include::projets_autonomie-energetique.adoc[]
+== Projets actuels chez {cyc}
 
-.Principes
-En complément de l'upcyclage des véhicules, nous souhaitons diminuer notre dépendance aux carburants distribués par les stations services ... +
-Nous souhaitons aussi explorer le secteur de l'autonomie énergétique _en site isolé_ par production et stockage d'électricité
+NOTE: La liste des projets listés ci-dessous n'est pas figée!
 
-* Carburants alternatifs :
-. récupération et transformation de déchets plastiques en carburant diesel
-. récupération huile végétale usagée pour emploi comme substitut au gasoil (implique un système de "bi-carburation")
-+
-* Autonomie énergétique en site isolé
-. éoliennes type https://www.tripalium.org/eolienne-piggott[PIGOTT^]
-. pico-centrales hydroélectriques type https://www.powerspout.com/[POWERSPOUT^]
-. stockage d'énergie électrique avec des batteries "Edison" type Ni-Fe (grande durabilité intrinsèque et régulation électronique inutile ...) comme les batteries Ni-Fe https://www.perma-batteries.com/product/batteries-encell/[ENCELL]
-. couplage avec des panneaux photovoltaïques ...
+=== Carburants de synthèse
 
-.Applications concrètes
-. plastique en diesel :
-** récupération & stockage de bouchons plastique
-** conception & modélisation de l'équipement de transformation du plastique en carburant, sur la base de systèmes fonctionnels existants
-** réalisation d'un modèle à l'échelle 1 servant de démonstrateur
-+
-. huile végétale carburant
-** sélection du véhicule test le plus adapté
-** sourcing et calcul de rentabilité pour un système de bi-carburation
-** installation d'un système fonctionnel servant de démonstrateur
-+
-. éolienne
-** calcul du montant total (fondations & mât, éolienne, régulation & stockage), réalisation & maintenance sur 10 ans
-** choix du modèle adapté en fonction du site
-** inscription à un stage de fabrication à l'association https://www.tripalium.org/[TRIPALIUM]
-+
-. picocentrale
-** sélection du type de picocentrale en fonction des caractéristiques du site (haute, moyenne ou basse chute)
-** sourcing du meilleur modèle
+xref:projets_autonomie-energetique.adoc[image:fleche-droite.png[logo,50,50,float=right]]
 
-NOTE: Pour plus de détails sur ces projets, voir la page xref:projets_autonomie-energetique.adoc[]
-//  <<projets-autonomie>>
+Premièrement, nous voulons diminuer notre dépendance aux carburants d'origine fossile et participer au développement de l'économie circulaire en recyclant des déchets pour les transformer en carburants de "synthèse" issus des collectes et transformations.
 
 
-.Synthèse projets "autonomies"
-[%autowidth.stretch,cols="5*a"]
-|===
-5+^.^h| [red]#Autonomie énergétique#
-^h|Priorité ^h|Avancement ^h|Conception ^h|Réalisation ^h|Déploiement
+=== Upcyclage de Véhicules
 
-|* [ ] basse
-* [ ] moyenne
-* [x] importante
-* [ ] élevée
+xref:projets_recyclage-upcyclage.adoc[image:fleche-droite.png[logo,50,50,float=right]]
 
-|* [x] en attente
-* [ ] démarré
-* [ ] en cours
-* [ ] terminé
-* [ ] déployé
-
-|* [x] esquisse
-* [ ] avant-projet
-* [ ] projet
-
-|* [ ] prototype 00
-* [ ] optimisation suite REX
-* [ ] modèle 001
-* [ ] documentation (manuels & plans)
-
-|* [ ] formation/assistance
-* [ ] réalisation autonome
-|===
+Deuxièmement, nous souhaitons recycler et améliorer des véhicules courants réputés pour leur faible cout d'achat et d'entretien (utilitaires à 4 et 2 roues) afin de les adapter aux carburants de synthèse fabriqués par {cyc}.
 
 
 
-== Habitats
-// include::projets_habitats.adoc[]
-
-.Principes
-Nous souhaitons explorer différents modes d'habitats, motivés par les changements brutaux à venir, tant économiques qu'environnementaux.+
-La technique de la construction paille (structures porteuses verticales & horizontales), la mode des "Tiny house" comme la redécouverte d'habitats anciens constitue à nos yeux autant d'excellents vecteurs permettant l'émergence de modes de vie plus "apaisés" ou des supports de formation ou de ré-orientation pour un public désorienté toujours plus important.
+=== Formations
 
 
-.Applications concrètes
-. Maison en paille porteuse
-** emploi de grosses bottes pour les planchers, murs et toiture
-** conception des ouvertures pour absorber un petit tassement
-** tests d'infiltrométrie à intervalles annuels permettant de tracer l'évolution de l'étanchéité à l'air
-+
-. Tiny house
-** conception au meilleur rapport qualité/prix d'une "roulotte" adaptée à une petite famille
-** réalisation d'un modèle à l'échelle 1 servant de démonstrateur
-** emploi possible pour assurer des formations proches d'entreprises
-+
-. Habitats anciens
-** maisons traditionnelles "primitives" : maison longue Gauloise, Hogan Navajo, etc.
-** constructions en matériaux naturels : pierre sèche, terre crue, chaux, plâtre, etc.
-
-NOTE: Pour plus de détails sur ces projets, voir la page xref:projets_habitats.adoc[]
-// <<projets-habitats>>
-
-.Synthèse projets "habitats"
-[%autowidth.stretch,cols="5*a"]
-|===
-5+^.^h| [red]#Habitats#
-^h|Priorité ^h|Avancement ^h|Conception ^h|Réalisation ^h|Déploiement
-
-|* [ ] basse
-* [x] moyenne
-* [ ] importante
-* [ ] élevée
-
-|* [x] en attente
-* [ ] démarré
-* [ ] en cours
-* [ ] terminé
-* [ ] déployé
-
-|* [x] esquisse
-* [ ] avant-projet
-* [ ] projet
-
-|* [ ] prototype 00
-* [ ] optimisation suite REX
-* [ ] modèle 001
-* [ ] documentation (manuels & plans)
-
-|* [ ] formation/assistance
-* [ ] réalisation autonome
-|===
+xref:projets_formations.adoc[image:fleche-droite.png[logo,50,50,float=right]]
 
 
-== Alimentations
-// include::projets_autonomie-alimentaire.adoc[]
-
-
-.Principes
-Nous souhaitons expérimenter la production d'aliments anciens mais sources potentielles d'une meilleure santé, tout du moins d'un plaisir à le faire ...
-
-Ces productions serviraient de support à des actions d'éducation et de recherche/développement de solutions concrètes (culture & transformation).
-
-
-.Applications concrètes
-. Céréales anciennes pauvres en gluten (petit épeautre)
-. cultures de régénération des sols
-. machinisme agricole de petite échelle
-
-NOTE: Pour plus de détails sur ces projets, voir la page xref:projets_autonomie-alimentaire.adoc[]
-// <<projets-alimentations>>
-
-.Synthèse projets "alimentations"
-[%autowidth.stretch,cols="5*a"]
-|===
-5+^.^h| [red]#Alimentations#
-^h|Priorité ^h|Avancement ^h|Conception ^h|Réalisation ^h|Déploiement
-
-|* [x] basse
-* [ ] moyenne
-* [ ] importante
-* [ ] élevée
-
-|* [x] en attente
-* [ ] démarré
-* [ ] en cours
-* [ ] terminé
-* [ ] déployé
-
-|* [ ] esquisse
-* [ ] avant-projet
-* [ ] projet
-
-|* [ ] prototype 00
-* [ ] optimisation suite REX
-* [ ] modèle 001
-* [ ] documentation (manuels & plans)
-
-|* [ ] formation/assistance
-* [ ] réalisation autonome
-|===
+Troisièmement, nous assurerons des formations théoriques (DAO ...) et pratiques (auto-entretien véhicules ...) centrées autour des activités de l'association.
 

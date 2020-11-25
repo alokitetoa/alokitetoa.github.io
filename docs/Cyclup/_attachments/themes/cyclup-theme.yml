@@ -1,0 +1,134 @@
+extends: base
+font:
+  catalog:
+    Ubuntu:
+      normal: Ubuntu-R.ttf
+      italic: Ubuntu-RI.ttf
+      bold: Ubuntu-B.ttf
+      bold_italic: Ubuntu-BI.ttf
+    UbuntuMono:
+      normal: UbuntuMono-R.ttf
+      italic: UbuntuMono-RI.ttf
+      bold: UbuntuMono-B.ttf
+      bold_italic: UbuntuMono-BI.ttf
+    # M+ 1mn supports ASCII and the circled numbers used for conums
+    M+ 1mn:
+      normal: mplus1mn-regular-ascii-conums.ttf
+      bold: mplus1mn-bold-ascii.ttf
+      italic: mplus1mn-italic-ascii.ttf
+      bold_italic: mplus1mn-bold_italic-ascii.ttf
+    # M+ 1p supports Latin, Latin-1 Supplement, Latin Extended, Greek, Cyrillic, Vietnamese, Japanese & an assortment of symbols
+    # It also provides arrows for ->, <-, => and <= replacements in case these glyphs are missing from font
+    M+ 1p Fallback:
+      normal: mplus1p-regular-fallback.ttf
+      bold: mplus1p-regular-fallback.ttf
+      italic: mplus1p-regular-fallback.ttf
+      bold_italic: mplus1p-regular-fallback.ttf
+  fallbacks:
+    - M+ 1p Fallback
+page:
+  background_color: ffffff
+  layout: portrait
+  margin: [1in,1in, 1in, 1in]
+  margin_inner: 1in
+  margin_outer: 1in
+  size: A4
+base:
+  align: left
+  # color as hex string (leading # is optional)
+  font_color: 333333
+  # color as RGB array
+  #font_color: [51, 51, 51]
+  # color as CMYK array (approximated)
+  #font_color: [0, 0, 0, 0.92]
+  #font_color: [0, 0, 0, 92%]
+  font_family: Ubuntu
+  # choose one of these font_size/line_height_length combinations
+  #font_size: 14
+  #line_height_length: 20
+  #font_size: 11.25
+  #line_height_length: 18
+  font_size: 12
+  line_height_length: 16
+  #font_size: 10.5
+  #line_height_length: 15
+  # correct line height for Noto Serif metrics
+  #line_height_length: 12
+  #font_size: 11.25
+  #line_height_length: 18
+  line_height: $base_line_height_length / $base_font_size
+  font_size_large: round($base_font_size * 1.25)
+  font_size_small: round($base_font_size * 0.85)
+  font_size_min: $base_font_size * 0.75
+  font_style: normal
+  border_color: eeeeee
+  border_radius: 4
+  border_width: 0.5
+# FIXME vertical_rhythm is weird; we should think in terms of ems
+#vertical_rhythm: $base_line_height_length * 2 / 3
+# correct line height for Noto Serif metrics (comes with built-in line height)
+vertical_rhythm: $base_line_height_length
+horizontal_rhythm: $base_line_height_length
+# QUESTION should vertical_spacing be block_spacing instead?
+vertical_spacing: $vertical_rhythm
+link:
+  font_color: 000000
+# literal is currently used for inline monospaced in prose and table cells
+literal:
+  font_color: b12146
+  font_family: UbuntuMono
+  font_size: ceil($base_font_size_small)
+menu_caret_content: " <font size=\"1.15em\"><color rgb=\"b12146\">\u203a</color></font> "
+heading:
+  font-color: #262626
+  font-size: 17
+  font-style: bold
+  line-height: 1.2
+  margin-bottom: $vertical-spacing
+link:
+  font-color: #002FA7
+outline-list:
+  indent: $base-font-size * 1.5
+#
+header:
+  # background-image: image:.imgs/trianglify-lowres.png[fit=contain]
+  image-vertical-align: bottom
+  font_color: 999999
+  height: 0.75in
+  text-transform: uppercase
+  vertical-align: middle
+  border-color: #dddddd
+  border-style: dashed
+  recto:
+    columns: "<40% =20% >40%"
+    right:
+      content: '_{organization}_'
+    center:
+      content: image:./imgs/200909_logo-short_cyclup.png[pdfwidth=2in,pdfheight=.4in]
+      image-vertical-align: 4
+  verso:
+    #background-image: image:.imgs/trianglify-lowres.png[fit=contain]
+    columns: $header_recto_columns
+    left:
+      content: $header_recto_right_content
+    center:
+      content: $header_recto_center_content
+#
+footer:
+  # NOTE if background_color is set, background and border will span width of page
+  border_color: DDDDDD
+  border_width: 0.25
+  height: $base_line_height_length * 2.5
+  line_height: 1
+  padding: [$base_line_height_length / 2, 1, 0, 1]
+  vertical_align: top
+  background-color: #eeeeee
+  height: $base-line-height-length * 2.5
+  line-height: 1
+  recto:
+    right:
+      content: '{page-number}'
+  verso:
+    left:
+      content: $footer-recto-right-content
+

@@ -1,0 +1,11 @@
+[#projets-formations]
+= Formations
+
+== Formations théoriques
+
+include::projets_formations_theoriques.adoc[]
+
+== Formations pratiques
+
+include::projets_formations_pratiques.adoc[]
+

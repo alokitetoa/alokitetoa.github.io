@@ -19,13 +19,13 @@ nav:
   - modules/ROOT/nav-root.adoc
 
   # Implantations
-  - modules/implantations/nav-implantations.adoc
+  # - modules/implantations/nav-implantations.adoc
 
   # Projets
   - modules/projets/nav-projets.adoc
 
-  # # Notions concr�tes
+  # # Notions concrètes
   # - modules/notions/nav-notions.adoc
 
-  # # R�f�rences techniques
+  # # Références techniques
   # - modules/references/nav-references.adoc

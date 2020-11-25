@@ -1,3 +1,4 @@
+
 === Principes
 
 Les plastiques sont réalisés à partir de pétrole.
@@ -34,38 +35,33 @@ Nous devons l'adapter à nos contraintes.
 
 NB : Comme pour d'autres projets de ce FABeLABe, il s'agit d'_implémenter une solution_ conçue au préalable _en l'adaptant à nos contraintes_ & capacités de réalisation.
 
-////
-??? info "Statut projet"
 
-....
-=== "Priorité"
-    * [ ] basse
-    * [ ] moyenne
-    * [ ] importante
-    * [x] élevée
+.Synthèse projet "plastic 2 diesel"
+[%autowidth.stretch,cols="5*a"]
+|===
+5+^.^h| [red]#Plastiques -> carburants#
+^h|Priorité ^h|Avancement ^h|Conception ^h|Réalisation ^h|Déploiement
 
-=== "Avancement"
-    * [x] en attente
-    * [ ] démarré
-    * [ ] en cours
-    * [ ] terminé
-    * [ ] déployé
+|* [ ] basse
+* [ ] moyenne
+* [ ] importante
+* [x] élevée
 
-=== "Conception"
-    * [ ] esquisse
-    * [ ] avant-projet
-    * [ ] projet
+|* [x] en attente
+* [ ] démarré
+* [ ] en cours
+* [ ] terminé
+* [ ] déployé
 
-=== "Réalisation"
-    * [ ] prototype : réalisation & essais
-    * [ ] optimisation suite REX
-    * [ ] modèle 001
-    * [ ] documentation (manuels & plans)
+|* [x] esquisse
+* [ ] avant-projet
+* [ ] projet
 
-=== "Déploiement"
-    * [ ] formation (assistance à réalisation)
-    * [ ] réalisation autonome par autrui
-....
+|* [ ] prototype 00
+* [ ] optimisation suite REX
+* [ ] modèle 001
+* [ ] documentation (manuels & plans)
 
-////
-
+|* [ ] formation/assistance
+* [ ] réalisation autonome
+|===

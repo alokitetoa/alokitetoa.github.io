@@ -26,7 +26,7 @@ ui:
     snapshot: true
 
   supplemental_files:
-  #- path: ./supplemental-ui
+  - path: ./supplemental-ui
   - path: .nojekyll
   - path: ui.yml
     contents: |
@@ -50,7 +50,7 @@ asciidoc:
     sectlinks: true
     icons: font
     experimental: true
-    page-copyright: 2016–2020
+    page-copyright: 2016–2021
     page-pagination: ''
     lang: fr
     plantuml-server-url: http://www.plantuml.com/plantuml
@@ -73,4 +73,5 @@ asciidoc:
     subl: Sublime Text
     vscode: Visual Studio Code
     cyc: CYCLUP
+    web-cyc: https://cyclup.xyz/Cyclup/index.html
 

@@ -1,0 +1,45 @@
+extends: default
+page:
+  background_color: ffffff
+  layout: portrait
+  margin: [1in,1in, 1in, 1in]
+  margin_inner: 1in
+  margin_outer: 1in
+  size: A4
+role:
+  love:
+    font-color: E0245E
+  wild:
+    font-color: 222222
+    text-transform: uppercase
+    font-style: italic
+    background-color: BCD637
+    border-offset: 1.5
+header:
+  font_color: 999999
+  height: 0.75in
+  border-color: dddddd
+  border-style: dashed
+  recto:
+    columns: "<40% =20% >40%"
+    right:
+      content: '_{organization}_'
+    center:
+      content: image:./imgs/201002_logo_cyclup.png[pdfwidth=0.5in]
+  verso:
+    columns: $header_recto_columns
+    left:
+      content: $header_recto_right_content
+    center:
+      content: $header_recto_center_content
+footer:
+  border_color: DDDDDD
+  border_width: 0.25
+  height: $base_line_height_length * 2.5
+  background-color: #eeeeee
+  recto:
+    right:
+      content: '{section-or-chapter-title} | {page-number}'
+  verso:
+    left:
+      content: '{page-number} | {chapter-title}'

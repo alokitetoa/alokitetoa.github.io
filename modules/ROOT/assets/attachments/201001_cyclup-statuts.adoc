@@ -1,0 +1,290 @@
+= Association CycluP: Statuts
+Olivier Turlier <o.turlier@gmail.com>; Salim Roubhi <roubhisalim@gmail.com>
+:version: v1.03
+:date: 15 Octobre 2020
+:description: Statuts de l'association CYCLUP, + \
+oeuvrant dans le domaine des énergies renouvelables et de l'upcyclage + \
+basée à Marseille
+:organization: Cyclup
+:doctype: book
+// Settings:
+:experimental:
+:reproducible:
+:icons: font
+:listing-caption: Listing
+:sectnums:
+:toc:
+:toclevels: 3
+ifndef::imagesdir[:imagesdir: images]
+:lang: fr
+:toc: left
+:part-signifier: Partie
+:chapter-label: Chapitre
+:appendix-caption: Annexe
+:toc-title: Sommaire
+:warning-caption: Attention
+:tip-caption: Conseil
+:note-caption: Info
+ifeval::["{asciidoctor-version}" < "1.5.7"]
+:legacy-footnoteref:
+endif::[]
+//
+//
+ifdef::backend-pdf[]
+:pdf-theme: chronicles
+:pdf-themesdir: {docdir}/themes
+:pdf-themesimagesdir: {pdf-themesdir}/imgs
+:title-logo-image: image:{pdf-themesimagesdir}/201002_logo-cyclup_banner.png[pdfwidth=5in,align=center]
+:source-highlighter: rouge
+//:rouge-style: github
+:showlinks:
+:autofit-option:
+endif::[]
+//
+// URIs:
+:uri-cyclup: https://cyclup.xyz/Cyclup/index.html
+//
+:cyc: pass:q[CycluP]
+:uri-cyclup: https://cyclup.xyz/Cyclup/index.html
+
+
+.Préambule
+****
+[.text-center]
+_{description}_
+****
+
+// [abstract]
+// {description}
+
+// saut de page en PDF
+ifdef::backend-pdf[]
+<<<
+endif::backend-pdf[]
+
+== Dénomination
+
+Il est fondé entre les adhérents aux présents statuts, une association régie par la loi du 1er juillet 1901 et le décret du 16 août 1901, ayant pour titre : [big]#*{cyc}*#.footnote:[Le nom {cyc} a été choisi en mélangeant les mots Recyclage et Upcyclage.]
+
+== Objet social
+
+L'objet social de l'association {cyc} s'incrit dans le cadre de la *transition écologique* et de *l'économie circulaire*.
+
+Au travers du partage d'expériences entre ses adhérents, l'association fait émerger des solutions concrètes et robustes. Elle est apolitique, athée et tournée vers l'opérationnel.
+
+L'objet est détaillé ci-dessous :
+
+. [blue]#_Premièrement_#, +
+l'association {cyc} a pour _but principal_ de modéliser, réaliser et tester des démonstrateurs à l'échelle 1 dans le domaine de _l'autonomie énergétique_, et s'attache plus particulièrement au *réemploi* et à la *production* à petite échelle de *carburants alternatifs* :
++
+.. récupération et *transformation de plastiques usagés en carburants de synthèse* (diesel et essence)
+.. récupération et purification d'*huile végétale usagée* pour emploi comme *carburant alternatif* au diesel après adaptation des véhicules
++
+. [blue]#_Deuxièmement_#, +
+l'association {cyc} _cherchera à développer_ "l'écosystème" humain et logistique permettant la *récupération des matières premières* nécessaires à la production de *carburants alternatifs* listés plus haut. Le principe étant de fournir un service supplémentaire aux circuits pré-existants, afin d'augmenter le taux de récupération des plastiques notamment, tout en restant basé sur un fonctionnement avec des moyens limités, pour une meilleure reproduction éventuelle dans des zones/pays à revenus faibles :
++
+.. récupération et tri/conditionnement des déchets plastiques, à terre comme en bordure de mer ou à l'embouchure des rivières
+.. récupération et filtration des huiles usagées
++
+. [blue]#_Troisièmement_#, +
+l'association {cyc} _tentera_ de *recycler* des *matériaux*, *objets* et *véhicules* afin de leur donner une seconde vie, en les valorisant si-possible :
++
+.. Récupération et stockage de matériaux, objets et véhicules
+.. Recyclage, upcyclage ou transformation de matériaux, objets et véhicules (voitures, vélos ...)
++
+. [blue]#_Quatrièmement_#, +
+l'association {cyc} _se propose de_ *dispenser* toute *formation* relative à ses domaines de compétence, à destination de ses membres, lors d'ateliers, stages ou formation sur site. +
+{cyc} mettra à disposition de tous, membres et non-membres, l'ensemble des connaissances acquises sur un site Internet, dans l'esprit "open source" de partage des savoirs.
++
+.. conception de projet : rétroconception, modélisation 3D et 2D
+.. réalisation de projet : assistance aux travaux de mécanique, travail du fer, du bois, constructions, etc.
+
+Ses actions sont permises par :
+
+* des *adhérents engagés* et réunis autour des mêmes enjeux
+* Un *réseau dynamique* pour échanger, coopérer, formuler des propositions, expérimenter des solutions pragmatiques...
+* Des *outils pratiques et collaboratifs* : publications, plateformes web, projets ...
+* Des *services* : groupes de travail, ateliers, veille et communication, accompagnement technique, formations ...
+
+
+== Moyens
+
+L'association {cyc} mettra en oeuvre tous les moyens nécessaires afin d'atteindre les différents buts qu'elle s'est fixée. Les activités de l'association {cyc} s'incrivent pleinement dans le cadre de la loi 1901 en ce sens qu'elles n'ont pas pour but d'être lucratives. +
+Néanmoins elle se réserve le droit d'exercer des activités économiques dans le seul but d'équilibrer ses dépenses, sans chercher à en répartir le bénéfice entre ses membres.
+
+=== Ressources à disposition
+
+Les activités de l'association {cyc} nécessitent des moyens immobiliers et des moyens matériels afin d'exercer son activité.
+
+La liste ci-dessous, non exhaustive, illustre ce qu'il faudra compléter au fur et à mesure du développement des moyens de {cyc}.
+
+. Immobilier
+** local d'entreposage pour la récupération de matériaux, objets et véhicules
+** local de transformation/upcyclage/expérimentions
+** local de formation
++
+. Matériels
+** outillages
+** équipements spécifiques aux différentes activités envisagées
+** équipements de sécurité
+
+
+=== Financements
+
+Les ressources de l'association comprennent :
+
+* le montant des cotisations des membres
+* les subventions de l'État, des Régions, des Départements et des Communes
+* Le mécénat et le sponsoring d'entreprises et institutions privées
+* les recettes issues de prestations de services ou manifestations
+* les appels à projets
+* le crowfunding
+* les dons et apports en numéraire, en nature ou immobiliers
+* toutes ressources autorisées par la loi et en lien avec l'activité développée
+
+=== Gestion Financière
+
+Le principe de la gestion _désintéressée_  est appliqué pleinement.
+
+La gestion comptable pourra faire appel à un organisme extérieur en cas de besoin.
+
+
+== Durée
+
+Sa durée est illimitée.
+
+== Siège
+
+Le siège de l'association {cyc} est fixé au *21 rue Ranque, 13001 Marseille*
+
+Il pourra être transféré par simple décision du conseil d'administration.
+
+== Adhésion
+
+L'association se compose exclusivement de membres actifs à jour de cotisation. +
+L'adhésion à l'association est impérative pour bénéficier des services de l'association.
+
+Ne pourront adhérer à l'association que les personnes, physiques ou morales, ayant déclaré avoir pris connaissance des présents statuts qui leur seront soumis lors de leur adhésion.
+
+== Cotisation
+
+Une cotisation annuelle doit être acquittée par les adhérents. Son montant est fixé par le conseil d'administration et précisé dans le règlement intérieur.
+
+== Qualité de membre
+
+La qualité de membre se perd par :
+
+* la démission
+* la radiation pour non-paiement de la cotisation
+* la radiation prononcée par le conseil d'administration pour motif grave
+
+== Mode d'administration
+
+Le fonctionnement de l'association {cyc} est basé sur un fonctionnement démocratique, chacun des membres participant aux décisions à prendre lors des différentes réunions.
+
+=== Assemblée générale ordinaire
+
+L'assemblée générale ordinaire de l'association est composée de l'ensemble des membres de l'association à jour de cotisation au jour de la réunion. +
+L'assemblée générale ordinaire se réunit une fois par an. Elle est convoquée par le conseil d'administration quinze jours avant la date fixée. La convocation est envoyée par courrier électronique, et affichée dans les locaux et sur le site web de l'association. +
+L'ordre du jour de l'assemblée générale est déterminé par le conseil d'administration. Il comprend notamment la présentation d'un rapport d'activité et d'un rapport financier une fois par an.  +
+Un compte-rendu de l'assemblée générale est envoyé par courrier électronique à tous les membres de l'association dans les 15 jours suivant la réunion.
+
+=== Conseil d'administration
+
+==== Définition
+
+L'association est dirigée et administrée par un conseil d'administration (C.A.) souverain composé d'au moins deux membres volontaires, majeurs et à jour de cotisation. +
+Le C.A. est l'organe qui représente légalement l'association en justice. En cas de poursuites judiciaires, les membres du C.A. en place au moment des faits prendront collectivement et solidairement leurs responsabilités devant les tribunaux compétents. +
+La liste officielle des membres du C.A. est actualisée après chaque modification.
+
+[#participation]
+==== Participation
+
+Chaque adhérent de l'association justifiant au minimum un an d'ancienneté peut rejoindre le C.A. en lui manifestant son intérêt à y participer. Son inclusion est actée lors de la réunion suivant sa demande, sauf opposition d'un membre du C.A., auquel cas un vote à la majorité absolue décide de l'inclusion du membre. Si l'inclusion du membre est refusée par vote, il ne pourra se représenter qu'après six mois. +
+Le C.A. peut également proposer à un adhérent de le rejoindre sans condition d'ancienneté. +
+Les éventuels salariés de l'association peuvent librement assister aux réunions du C.A. et y participer uniquement à titre consultatif.
+
+==== Réunions
+
+Le C.A. se réunit au minimum une fois par trimestre ou à la demande d'au moins un de ses membres. +
+En cas d'absence, un administrateur peut donner pouvoir de vote à un autre administrateur. Un administrateur ne peut disposer de plus de deux pouvoirs. +
+Un compte-rendu de chaque réunion est rédigé et est envoyé par courrier électronique à tous les membres de l'association dans les quinze jours suivant la réunion.
+
+==== Décisions
+
+Les décisions sont prises au consensus ou, si cela n'est pas possible, à la majorité absolue des voix des présents et représentés.
+
+==== Délégation de signature
+
+Les délégations de signature sont générales au sein du conseil d'administration, exception faite des comptes bancaires pour lesquels jusqu'à trois membres de l'association et jusqu'à deux salariés dûment missionnés par le C.A. uniquement ont cette délégation.
+
+==== Révocation d'un administrateur
+
+Un administrateur peut être révoqué :
+
+* par décision du C.A. selon les modalités de la <<Décisions>>
+* par absence non-excusée à trois réunions du C.A.
+* par démission
+
+=== Assemblée générale extraordinaire
+
+L'assemblée générale extraordinaire est composée de l'ensemble des membres de l'association à jour de cotisation au jour de la convocation. Elle est convoquée par courrier électronique et affichage dans les locaux et sur le site web de l'association, ou à défaut par courrier, au moins quinze jours avant sa tenue. Elle se réunit à la demande du C.A. ou d'un tiers des membres dans les cas suivants :
+
+* dissolution de l'association
+* changement des statuts
+* révocation du C.A. pour motif grave
+* constitution d'un nouveau C.A. en cas de défaillance ou révocation de celui-ci
+
+Ces décisions sont prises à l'issue d'un vote à la majorité absolue. La dissolution de l'association ou la révocation du C.A. nécessite un quorum de 50% des adhérents. Le changement des statuts ou la constitution d'un nouveau C.A.se fait sans condition de quorum. La constitution d'un nouveau C.A. lors d'une assemblée générale extraordinaire n'est pas soumise aux restrictions mentionnées à la <<participation>> . +
+Les membres peuvent remettre un pouvoir à un autre membre, cependant chaque membre ne peut être porteur de plus de deux pouvoirs.
+
+== Employés
+
+Le conseil d'administration décide et organise l'activité salariée de l'association, notamment l'embauche et le licenciement des salariés, dans le respect du Code du Travail et des conventions collectives.
+
+== Règlement Intérieur
+
+Un Règlement Intérieur peut être établi par le conseil d'administration. Ce règlement éventuel est destiné à fixer les divers points non prévus par les statuts, notamment ceux qui ont trait à l'administration interne de l'association.
+
+== Dissolution
+
+La dissolution est prononcée par l'assemblée générale extraordinaire qui nomme un ou plusieurs liquidateurs. Les apports figurant au patrimoine de l'association sont repris par leurs apporteurs ou leurs ayants-droits. L'actif est dévolu,conformément à l'article 9 de la loi du 1er juillet 1901, à une association poursuivant un but identique.
+
+_Les présents statuts ont été approuvés par l'assemblée constitutive de l'association *{cyc}* le {date}._
+
+_Fait à Marseille, le {date}._
+
+
+// == Diags
+
+// [plantuml,mindmap2,svg]
+// ----
+// @startmindmap
+// + myThoughts
+// ++ Thought 1
+// 'tag::details[]
+// +++_ Thought 1.1
+// +++_ Thought 1.2
+// 'end::details[]
+// ++ Thought 2
+// ++ Thought 3
+
+// 'tag::left[]
+// -- Thought A
+// -- Thought B
+// -- Thought C
+// 'end::left[]
+// @endmindmap
+// ----
+
+
+
+////
+compilation fichier MARKDOWN en fichier PDF (.md -> .pdf) :
+$ pandoc .\asso-statuts.md -o .\asso-statuts.pdf --from markdown -N --variable mainfont="Myriad Pro" --pdf-engine=xelatex --template=eisvogel.tex
+////
+
+
+// compilation fichier ASCIIDOC en fichier PDF (.adoc -> .pdf) :
+// asciidoctor -r asciidoctor-diagram .\200901_cyclup-statuts.adoc (fichier web)
+// asciidoctor-pdf -r asciidoctor-diagram .\200901_cyclup-statuts.adoc (fichier pdf)

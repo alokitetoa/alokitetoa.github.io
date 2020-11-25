@@ -18,3 +18,34 @@
 * local spécifique dédié à cette activité, disposé de façon centrale dans Marseille, afin de permettre l'accès à tous
 * équipement de réparation automobile spacieux et sûr, aux normes en vigueur actuellement
 * espace tampon de parking pour véhicules en attente ...
+
+
+.Synthèse projets "upcyclage"
+[%autowidth.stretch,cols="5*a"]
+|===
+5+^.^h| [red]#Upcyclage -> voitures#
+^h|Priorité ^h|Avancement ^h|Conception ^h|Réalisation ^h|Déploiement
+
+|* [ ] basse
+* [ ] moyenne
+* [x] importante
+* [ ] élevée
+
+|* [x] en attente
+* [ ] démarré
+* [ ] en cours
+* [ ] terminé
+* [ ] déployé
+
+|* [x] esquisse
+* [ ] avant-projet
+* [ ] projet
+
+|* [ ] prototype 00
+* [ ] optimisation suite REX
+* [ ] modèle 001
+* [ ] documentation (manuels & plans)
+
+|* [ ] formation/assistance
+* [ ] réalisation autonome
+|===

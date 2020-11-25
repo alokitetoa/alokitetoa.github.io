@@ -1,3 +1,4 @@
-* xref:index.adoc[Démarrage]
+* xref:index.adoc[Aperçu]
+
 // ** xref:cc-by-nc-sa.adoc[Lic. CC-BY-NC-SA 4.0]
 // ** xref:common_gfdl1.2_i.adoc[Lic. GFDL]

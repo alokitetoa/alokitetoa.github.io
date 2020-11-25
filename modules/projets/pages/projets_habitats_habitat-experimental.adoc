@@ -14,7 +14,7 @@ Nous aimerions réaliser les constructions "primitives" suivantes
 +
 image::gopr0243.jpg[]
 +
-* "Maison longue" _Gauloise_ : le retourt aux sources
+* "Maison longue" _Gauloise_ : le retour aux sources, version locative ...
 +
 .maison gauloise moderne
 image::maison-gauloise.jpg[]
@@ -50,6 +50,9 @@ image::coupole 2-crop-u6522.jpg[]
 +
 .une Tiny house luxueuse destinée à rester à demeure (la remorque a perdu le timon ...)
 image::maxresdefault.jpg[]
++
+.Vidéo de la construction d'une autre tiny house par un couple fort sympathique ... ça change de la caravane de papa ! surtout à l'intérieur!
+video::wx4K5FVcaK4[youtube,lang=fr,width=640,height=480]
 
 === Principales difficultés
 

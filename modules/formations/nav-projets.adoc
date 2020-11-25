@@ -1,0 +1,10 @@
+* xref:projets_index.adoc[Projets]
+** xref:projets_autonomie-energetique.adoc[Carburants]
+** xref:projets_recyclage-upcyclage.adoc[Upcyclage]
+** xref:projets_formations.adoc[Formations]
+
+//
+// recentrage sur activités principales ...
+//
+// ** xref:projets_habitats.adoc[Habitats]
+// ** xref:projets_autonomie-alimentaire.adoc[Alimentations]

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:export-ydpi="100"
+   inkscape:export-xdpi="100"
+   inkscape:export-filename="E:\work\CYCLUP\site-web_cyclup.xyz\logo\fleche-droite.png"
+   width="141.85229pt"
+   height="141.97229pt"
+   viewBox="0 0 141.85229 141.97229"
+   overflow="visible"
+   version="1.1"
+   id="svg12"
+   sodipodi:docname="fleche-droite.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
+  <metadata
+     id="metadata18">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs16" />
+  <sodipodi:namedview
+     inkscape:document-rotation="0"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview14"
+     showgrid="false"
+     inkscape:zoom="1.944856"
+     inkscape:cx="103.80007"
+     inkscape:cy="107.607"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg12"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:showpageshadow="false" />
+  <g
+     id="g839">
+    <path
+       id="path2"
+       fill-opacity="1"
+       fill="#ffffff"
+       stroke-width="0"
+       stroke="#000000"
+       d="m 89.310597,63.899488 -23.3354,-23.33544 10.0219,-10.021988 40.444103,40.444028 -40.444103,40.444102 -10.0219,-10.022 23.3354,-23.335502 H 28.4665 v -14.1732 z" />
+    <path
+       id="path4"
+       fill-opacity="1"
+       fill="#ff8000"
+       stroke-width="0"
+       stroke="#000000"
+       d="M 0.12,141.85229 V 0.11998 H 141.8523 V 141.85229 Z M 89.310597,63.899488 H 28.4665 v 14.1732 h 60.844097 l -23.3354,23.335502 10.0219,10.022 L 116.4412,70.986088 75.997097,30.54206 65.975197,40.564048 Z" />
+    <path
+       id="path6"
+       fill-opacity="0"
+       stroke-width="0.24"
+       stroke="#ffffff"
+       d="M 89.310597,63.899488 H 28.4665 v 14.1733 h 60.844097 l -23.3354,23.335402 10.022,10.022 L 116.4412,70.986188 75.997197,30.54208 l -10.022,10.021988 z" />
+    <path
+       id="path8"
+       fill-opacity="0"
+       stroke-width="0.24"
+       stroke="#ff8000"
+       d="M 0.12,141.85229 H 139.3041" />
+    <path
+       id="path10"
+       fill-opacity="0"
+       stroke-width="0.24"
+       stroke="#ff8000"
+       d="M 139.3041,0.12 H 0.12 v 141.73229" />
+  </g>
+</svg>

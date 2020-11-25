@@ -1,0 +1,62 @@
+[#formations-pratiques]
+=== Principe
+
+L'objectif est d'apporter les compétences clés permettant aux membres d'augmenter leur *autonomie pratique*. Les différentes formations envisagées à l'association {cyc} sont :
+
+* auto-réparation de véhicules personnels (entretien courant)
+* travail du bois (outils à main et électriques)
+* travail du fer (découpe, façonnage et assemblage ; maniement des outils afférents en sécurité)
+
+=== Implémentation
+
+Les formations pratiques seront toutes réalisées selon le principe d'ateliers/travail de groupe.
+Ces ateliers viseront en premier la réalisation de l'ensemble des projets menés par l'association {cyc}, puis seront poursuivis selon une démarche d'élargissement, en multipliant les modèles opérationnels développés auparavant.
+
+.Réalisations partielles
+* fabrication d'une partie d'un projet (par exemple, 1 cuve pour le système de distillation des condensats)
+* construction bois ou métallique d'apprentissage
+* geste partiel lors d'une (auto)réaparation de véhicule par exemple
+
+.Réalisations complètes
+* réalisations étapes/étapes selon les différents ateliers d'un projet dans son ensemble
+* auto-réparations en autonomie ...
+
+
+=== Difficultés
+
+L'avantage des formations concrètes par ateliers collectifs est la forte implication et motivation des participants, tous à même d'atteindre l'objectif visé.
+
+Le désavantage réside dans l'organisation sereine des ces ateliers, tout comme de l'instauration de règles strictes permettant d'aussuer une sécurité individuelle et collective de chaque instant.
+
+
+
+.Synthèse projets "Formations"
+[%autowidth.stretch,cols="5*a"]
+|===
+5+^.^h| [red]#Formations -> pratiques#
+^h|Priorité ^h|Avancement ^h|Conception ^h|Réalisation ^h|Déploiement
+
+|* [ ] basse
+* [x] moyenne
+* [ ] importante
+* [ ] élevée
+
+|* [x] en attente
+* [ ] démarré
+* [ ] en cours
+* [ ] terminé
+* [ ] déployé
+
+|* [x] esquisse
+* [ ] avant-projet
+* [ ] projet
+
+|* [ ] prototype 00
+* [ ] optimisation suite REX
+* [ ] modèle 001
+* [ ] documentation (manuels & plans)
+
+|* [ ] formation/assistance
+* [ ] réalisation autonome
+|===
+

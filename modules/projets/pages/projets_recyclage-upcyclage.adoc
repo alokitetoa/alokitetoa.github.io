@@ -3,7 +3,7 @@
 
 C'est le coeur de l'ensemble de nos projets.
 
-CYCLUP agit pour un recyclage intelligent, à échelle humaine.
+{cyc} agit pour un recyclage intelligent, à échelle humaine, au coeur d'une économie circulaire à développer.
 
 == Véhicules
 
@@ -11,10 +11,11 @@ include::projets_recyclage-upcyclage_velos.adoc[]
 
 include::projets_recyclage-upcyclage_voitures.adoc[]
 
+////
 
 == Matériaux
 
 include::projets_recyclage-upcyclage_materiaux.adoc[]
 
-
+////
 

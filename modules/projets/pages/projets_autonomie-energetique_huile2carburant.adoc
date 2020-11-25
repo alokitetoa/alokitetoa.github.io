@@ -24,6 +24,47 @@ Un autre point de blocage reste à aborder : la position de la France quant à l
 
 L'objectif est écologique plus qu'économique : il s'agit encore une fois de valoriser des déchets.
 
+
+
+
+
+
+.Synthèse projets "huile usagée en diesel"
+[%autowidth.stretch,cols="5*a"]
+|===
+5+^.^h| [red]#Huile -> diesel#
+^h|Priorité ^h|Avancement ^h|Conception ^h|Réalisation ^h|Déploiement
+
+|* [ ] basse
+* [ ] moyenne
+* [ ] importante
+* [x] élevée
+
+|* [x] en attente
+* [ ] démarré
+* [ ] en cours
+* [ ] terminé
+* [ ] déployé
+
+|* [x] esquisse
+* [ ] avant-projet
+* [ ] projet
+
+|* [ ] prototype 00
+* [ ] optimisation suite REX
+* [ ] modèle 001
+* [ ] documentation (manuels & plans)
+
+|* [ ] formation/assistance
+* [ ] réalisation autonome
+|===
+
+
+
+
+
+
+
 ////
 ??? info "Statut projet"
 

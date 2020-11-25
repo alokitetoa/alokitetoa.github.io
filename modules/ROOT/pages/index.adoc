@@ -1,28 +1,46 @@
 // URIs:
 :uri-devoxx: https://devoxx.be
 :fablab: pass:q[*FAB__e__LAB__e__*]
+:cyc: pass:q[CycluP]
 
 = Association {cyc}
 
 == Objectifs
 
-image:200831_logo_cyclup.svg[logo,200,400,float=right]
-Modéliser, réaliser et tester des démonstrateurs à l'échelle 1 dans les domaines ci-dessous, listés par ordre de priorité. Transmettre des concepts et modèles fiables et peu onéreux
+image:201002_logo-cyclup_banner.png[logo,200,400,float=right]
 
-Tous ces projets sont reliés entre eux par les mêmes concepts "utilitaires" de développement d'une forme d'autonomie augmentant la résilience aux aléas inévitables que nous réserve le futur...
-
-.Liste des familles de projets
-. Recyclage/Upcyclage de véhicules & matériaux
-. Autonomie énergétique
-. Habitat résilient
-. Autonomie alimentaire
+. [blue]#_Premièrement_#, +
+l'association {cyc} a pour _but principal_ de modéliser, réaliser et tester des démonstrateurs à l'échelle 1 dans le domaine de _l'autonomie énergétique_, et s'attache plus particulièrement au *réemploi* et à la *production* à petite échelle de *carburants alternatifs* :
++
+.. récupération et *transformation de plastiques usagés en carburants de synthèse* (diesel et essence)
+.. récupération et purification d'*huile végétale usagée* pour emploi comme *carburant alternatif* au diesel après adaptation des véhicules
++
+. [blue]#_Deuxièmement_#, +
+l'association {cyc} _cherchera à développer_ "l'écosystème" humain et logistique permettant la *récupération des matières premières* nécessaires à la production de *carburants alternatifs* listés plus haut. Le principe étant de fournir un service supplémentaire aux circuits pré-existants, afin d'augmenter le taux de récupération des plastiques notamment, tout en restant basé sur un fonctionnement avec des moyens limités, pour une meilleure reproduction éventuelle dans des zones/pays à revenus faibles :
++
+.. récupération et tri/conditionnement des déchets plastiques, à terre comme en bordure de mer ou à l'embouchure des rivières
+.. récupération et filtration des huiles usagées
++
+. [blue]#_Troisièmement_#, +
+l'association {cyc} _tentera_ de *recycler* des *matériaux*, *objets* et *véhicules* afin de leur donner une seconde vie, en les valorisant si-possible :
++
+.. Récupération et stockage de matériaux, objets et véhicules
+.. Recyclage, upcyclage ou transformation de matériaux, objets et véhicules (voitures, vélos ...)
++
+. [blue]#_Quatrièmement_#, +
+l'association {cyc} _se propose de_ *dispenser* toute *formation* relative à ses domaines de compétence, à destination de ses membres, lors d'ateliers, stages ou formation sur site. +
+{cyc} mettra à disposition de tous, membres et non-membres, l'ensemble des connaissances acquises sur un site Internet, dans l'esprit "open source" de partage des savoirs.
++
+.. conception de projet : rétroconception, modélisation 3D et 2D
+.. réalisation de projet : assistance aux travaux de mécanique, travail du fer, du bois, constructions, etc.
 
 NOTE: L'ensemble des projets est détaillé à l'onglet xref:projets:projets_index.adoc[projets]
 
 
 == Définition
 
-{cyc} est une association orientée principalement vers des actions concrètes visant aussi bien l'éducation que la réalisation de modèles éprouvés pour leur efficacité et leur rusticité apportant une aisance et une maîtrise certaine pour leur maintenance ultérieure.
+Au travers du partage d'expériences entre ses adhérents, l'association {cyc} fait émerger des solutions concrètes et robustes. Elle est apolitique, athée et tournée vers l'opérationnel.
+
 
 * Dans un premier temps, il s'agit de réaliser un prototype et de l'optimiser suite au REX, en se basant sur des principes de réalisation et d'exploitation à faible coût, comme d'efficience ou de portabilité (standardisation de pièces, etc.)
 * Ensuite, une fois le modèle éprouvé et revu, la transmission de compétences au plus grand nombre reste le but ultime, par l'organisation de stages de réalisation, comme de formations d'aide à la conception ou l'assistance à l'auto-réalisation.
@@ -31,26 +49,27 @@ NOTE: L'ensemble des projets est détaillé à l'onglet xref:projets:projets_ind
 == Documents fondateurs
 
 === Statuts
-Les statuts sont téléchargeables au format PDF en cliquant sur le lien suivant link:./_attachments/200901_cyclup-statuts.pdf[Statuts {cyc} (PDF)]
+Les statuts sont téléchargeables au format PDF en cliquant sur le lien suivant link:./_attachments/201001_cyclup-statuts.pdf[Statuts {cyc} (PDF)^]
 
 
 === Autres documents
 
 Au fur et à mesure du développement des activités, celles-ci feront l'objet de *règlements* spécifique.
 
-Par exemple, le dépôt principal fera l'objet d'un reglement d'usage spécifiant aussi bien la nature des objets sockés que les personnes qui y auront accès.
+Par exemple, le dépôt principal fera l'objet d'un règlement d'usage spécifiant aussi bien la nature des objets stockés que les personnes qui y auront accès.
 
-De même, lors de la création de l'Atelier, l'uitilisation de cleui-ci par les memebre fera l'objet d'un reglement spécifique.
+De même, lors de la création de l'Atelier, l'uitilisation de celui-ci par les membres fera l'objet d'un règlement spécifique.
 
-L'ensemble de ces règlements visera a assurer la sécurité de tous.
+L'ensemble de ces règlements visera à assurer la sécurité de tous.
 
 
-== Licences
+== Licences des textes de ce site WEB
 
 WARNING: "Copy it right !"
     L'ensemble du contenu de ce site est couvert par les +++<u>+++2 licences+++</u>+++ ci-dessous :
 
-. xref:./cc-by-nc-sa.adoc[CC-BY-NC-SA (texte complet - EN)] résumé ci-dessous :
+. xref:./cc-by-nc-sa.adoc[CC-BY-NC-SA (texte complet - EN)] +
+résumé ci-dessous :
 ** Vous êtes autorisé à :
 *** *Partager* -- copier, distribuer et communiquer le matériel par tous moyens et sous tous formats
 *** *Adapter* -- remixer, transformer et créer à partir du matériel

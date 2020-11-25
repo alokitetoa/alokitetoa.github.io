@@ -1,19 +1,21 @@
 :doctitle: CycluP : statuts de l'association
-:doctype: article
+:doctype: book
 :encoding: utf-8
 :author: Olivier Turlier
 :email: o.turlier@gmail.com
 :copyright: CC-BY-NC-SA 4.0
 :producer: alo.kitetoa@lavache.com
 :creator: https://www.cyclup.xyz
-:description: Stuts de l'association CYCLUP, + \
-oeuvrant dans le domaine du recyclage, de l'upcyclage, de la recherche & développement, de la formation et de l'éducation
-:localdate: 01 septembre 2020
+:organization: CycluP
+:description: Statuts de l'association CYCLUP, + \
+oeuvrant dans le domaine de l'upcyclage
+:localdate: 01 octobre 2020
 :revnumber: 1.01
 :version: {revnumber}
 :revdate: {localdate}
+:experimental:
 :reproducible:
-ifndef::env-site[:toc: preamble]
+// ifndef::env-site[:toc: preamble]
 ifndef::imagesdir[:imagesdir: images]
 :imagesoutdir: {imagesdir}/generated_images
 :icons: font
@@ -27,6 +29,7 @@ ifndef::imagesdir[:imagesdir: images]
 :toclevels: 2
 :numbered:
 :sectnumlevels: 3
+:xrefstyle: short
 :warning-caption: Attention
 :tip-caption: Conseil
 :note-caption: Info
@@ -39,31 +42,36 @@ ifndef::imagesdir[:imagesdir: images]
 :mathematical-format: svg
 :linkattrs:
 :data-uri:
+//
+ifdef::backend-html5[]
 // pour sommaire auto-collapsable ala read the docs). on doit aussi ajouter un docinfo.html + equations chimiques en docinfo-footer.html
 :nofooter:
 // footer txt reimplaced by docinfo-footer.html
 :docinfo: shared
 //:docinfo: shared,head,footer
+//:stylesheet: themes/myCustomCSS.css
 // global_path is used for global support
 :global_path: ./
+endif::backend-html5[]
+//
 //
 ifdef::backend-pdf[]
+// :pdf-theme: #knp #vshn #cyclup
+:pdf-theme: chronicles
 :pdf-themesdir: {docdir}/themes
-// :pdf-theme: knp
-:pdf-theme: vshn
 :pdf-fontsdir: {pdf-themesdir}/fonts
-:media: print
+:pdf-imagesdir: {pdf-themesdir}/imgs
+:title-logo-image: image:{pdf-imagesdir}/sample-banner.svg[pdfwidth=4.25in,align=center]
+// :media: print
 :showlinks:
 :autofit-option:
 :mathematical-format: png
 endif::[]
-ifdef::backend-html5[]
-//:stylesheet: themes/myCustomCSS.css
-endif::backend-html5[]
+//
 // URIs:
 :uri-devoxx: https://devoxx.be
 :fablab: pass:q[*FAB__e__LAB__e__*]
-:cyc: pass:q[*CycluP*]
+:cyc: pass:q[CycluP]
 
 
 
@@ -72,14 +80,16 @@ endif::backend-html5[]
 // asciidoctor-pdf -r asciidoctor-diagram .\pieces-a-fournir.adoc
 
 
-.Une source, des formats multiples
 ifdef::backend-html5[]
+.Une source, des formats multiples
 * icon:file-text-o[link={docname}.adoc,window="_blank"] Source
 //* icon:video-camera[link=reveal/{docname}.html] Slides Reveal.js
 * icon:file-pdf-o[link={docname}.pdf,window="_blank"] PDF
 endif::backend-html5[]
 
+{blank}
 
+{blank}
 
 .Préambule
 ****
@@ -87,18 +97,89 @@ endif::backend-html5[]
 _{description}_
 ****
 
+// saut de page en PDF
+ifdef::backend-pdf[]
+<<<
+endif::backend-pdf[]
+
 == Dénomination
 
-Il est fondé entre les adhérents aux présents statuts, une association régie par la loi du 1er juillet 1901 et le décret du 16 août 1901, ayant pour titre : «{cyc}».
+Il est fondé entre les adhérents aux présents statuts, une association régie par la loi du 1er juillet 1901 et le décret du 16 août 1901, ayant pour titre : [big]#*{cyc}*#.footnote:[Le nom {cyc} a été choisi en mélangeant les mots Recyclage et Upcyclage.]
 
-== Objet
+== Objet social
 
-Cette association a pour but de Modéliser et Expérimenter en réalisant et testant des démonstrateurs à l'échelle 1 dans les domaines suivants :
+L'objet social de l'association {cyc} s'incrit dans le cadre de *l'économie circulaire* et de la *transition écologique*. +
+À travers la co-construction et le partage d'expériences entre ses adhérents, l'association fait émerger des solutions concrètes et des axes de réflexion sur chacune de ses priorités. Elle est apolitique, athée et tournée vers l'opérationnel. +
+L'objet est détaillé ci-dessous :
 
-. Recyclage & Upcyclage de véhicules
-. Autonomie énergétique
-. Habitat résilient
-. Autonomie alimentaire
+. [blue]#_Premièrement_#, +
+l'association {cyc} _a pour but_ de *recycler* des *matériaux*, *objets* et *véhicules* afin de leur donner une seconde vie :
++
+.. Récupération et stockage de matériaux, objets et véhicules
+.. Recyclage, upcyclage ou transformation de matériaux, objets et véhicules
++
+. [blue]#_Deuxièmement_#, +
+l'association {cyc} _recherche le développement_ du *réemploi* ou de la *production* à petite échelle de *carburants alternatifs* :
++
+.. huile végétale usagée
+.. plastiques transformés en diesel
++
+. [blue]#_Troisièmement_#, +
+l'association {cyc} _se propose de_ *dispenser* toute *formation* relative à ses domaines de compétence, à destination de ses membres, lors d'ateliers, stages ou formation sur site. +
+{cyc} mettra à disposition de tous, membres et non-membres, l'ensemble des connaissances acquises sur un site Internet .
++
+.. conception de projet : rétroconception, modélisation 3D
+.. réalisation de projet : assistance aux travaux de mécanique, travail du fer, du bois, constructions, etc.
+
+Ses actions sont permises par :
+
+* des *adhérents engagés* et réunis autour des mêmes enjeux
+* Un *réseau dynamique* pour échanger, coopérer, formuler des propositions, expérimenter des solutions pragmatiques...
+* Des *outils pratiques et collaboratifs* : publications, plateformes web, projets ...
+* Des *services* : groupes de travail, ateliers, veille et communication, accompagnement technique, formations ...
+
+
+== Moyens
+
+L'association {cyc} mettra en oeuvre tous les moyens nécessaires afin d'atteindre les différents buts qu'elle s'est fixée. Les activités de l'association {cyc} s'incrivent pleinement dans le cadre de la loi 1901 en ce sens qu'elles n'ont pas pour but d'être lucratives. +
+Néanmoins elle se réserve le droit d'exercer des activités économiques dans le seul but d'équilibrer ses dépenses, sans chercher à en répartir le bénéfice entre ses membres.
+
+=== Ressources à disposition
+
+Les activités de l'association {cyc} nécessitent des moyens immobiliers et des moyens matériels afin d'exercer son activité.
+
+La liste ci-dessous, non exhaustive, illustre ce qu'il faudra compléter au fur et à mesure du développement des moyens de {cyc}.
+
+. Immobilier
+** local d'entreposage pour la récupération de matériaux, objets et véhicules
+** local de transformation/upcyclage/expérimentions
+** local de formation
++
+. Matériels
+** outillages
+** équipements spécifiques aux différentes activités envisagées
+** équipements de sécurité
+
+
+=== Financements
+
+Les ressources de l'association comprennent :
+
+* le montant des cotisations des membres
+* les subventions de l'État, des Régions, des Départements et des Communes
+* Le mécénat et le sponsoring d'entreprises et institutions privées
+* les recettes issues de prestations de services ou manifestations
+* les appels à projets
+* le crowfunding
+* les dons et apports en numéraire, en nature ou immobiliers
+* toutes ressources autorisées par la loi et en lien avec l'activité développée
+
+=== Gestion Financière
+
+Le principe de la gestion _désintéressée_  est appliqué pleinement.
+
+La gestion comptable pourra faire appel à un organisme extérieur en cas de besoin.
+
 
 == Durée
 
@@ -106,14 +187,16 @@ Sa durée est illimitée.
 
 == Siège
 
-Le siège est fixé à Marseille, l'adresse exacte sera définie lors du conseil d'administration. +
+Le siège de l'association {cyc} est fixé au *21 rue Ranque, 13001 Marseille*
+
 Il pourra être transféré par simple décision du conseil d'administration.
 
 == Adhésion
 
 L'association se compose exclusivement de membres actifs à jour de cotisation. +
-L'adhésion à l'association est impérative pour bénéficier des services de l'association. +
-Ne pourront adhérer à l'association que les personnes, physiques ou morales, ayant déclaré avoir pris connaissance des présents statuts et du règlement intérieur de l'association, qui leur seront soumis lors de leur adhésion.
+L'adhésion à l'association est impérative pour bénéficier des services de l'association.
+
+Ne pourront adhérer à l'association que les personnes, physiques ou morales, ayant déclaré avoir pris connaissance des présents statuts qui leur seront soumis lors de leur adhésion.
 
 == Cotisation
 
@@ -123,19 +206,13 @@ Une cotisation annuelle doit être acquittée par les adhérents. Son montant es
 
 La qualité de membre se perd par :
 
-* la démission,
-* la radiation pour non-paiement de la cotisation,
-* la radiation prononcée par le conseil d'administration pour motif grave.
-
-== Ressources
-
-Les ressources de l'association comprennent :
-
-* le montant des cotisations ;
-* les subventions de l'État, des régions, des départements et des communes ;
-* toutes ressources autorisées par la loi, et en lien avec l'activité développée.
+* la démission
+* la radiation pour non-paiement de la cotisation
+* la radiation prononcée par le conseil d'administration pour motif grave
 
 == Mode d'administration
+
+Le fonctionnement de l'association {cyc} est basé sur un fonctionnement démocratique, chacun des membres participant aux décisions à prendre lors des différentes réunions.
 
 === Assemblée générale ordinaire
 
@@ -152,6 +229,7 @@ L'association est dirigée et administrée par un conseil d'administration (C.A.
 Le C.A. est l'organe qui représente légalement l'association en justice. En cas de poursuites judiciaires, les membres du C.A. en place au moment des faits prendront collectivement et solidairement leurs responsabilités devant les tribunaux compétents. +
 La liste officielle des membres du C.A. est actualisée après chaque modification.
 
+[#participation]
 ==== Participation
 
 Chaque adhérent de l'association justifiant au minimum un an d'ancienneté peut rejoindre le C.A. en lui manifestant son intérêt à y participer. Son inclusion est actée lors de la réunion suivant sa demande, sauf opposition d'un membre du C.A., auquel cas un vote à la majorité absolue décide de l'inclusion du membre. Si l'inclusion du membre est refusée par vote, il ne pourra se représenter qu'après six mois. +
@@ -176,20 +254,20 @@ Les délégations de signature sont générales au sein du conseil d'administrat
 
 Un administrateur peut être révoqué :
 
-* par décision du C.A. selon les modalités de l'article 9.2.4 ;
-* par absence non-excusée à trois réunions du C.A. ;
-* par démission.
+* par décision du C.A. selon les modalités de la <<Décisions>>
+* par absence non-excusée à trois réunions du C.A.
+* par démission
 
 === Assemblée générale extraordinaire
 
 L'assemblée générale extraordinaire est composée de l'ensemble des membres de l'association à jour de cotisation au jour de la convocation. Elle est convoquée par courrier électronique et affichage dans les locaux et sur le site web de l'association, ou à défaut par courrier, au moins quinze jours avant sa tenue. Elle se réunit à la demande du C.A. ou d'un tiers des membres dans les cas suivants :
 
-* dissolution de l'association ;
-* changement des statuts ;
-* révocation du C.A. pour motif grave ;
-* constitution d'un nouveau C.A. en cas de défaillance ou révocation de celui-ci.
+* dissolution de l'association
+* changement des statuts
+* révocation du C.A. pour motif grave
+* constitution d'un nouveau C.A. en cas de défaillance ou révocation de celui-ci
 
-Ces décisions sont prises à l'issue d'un vote à la majorité absolue. La dissolution de l'association ou la révocation du C.A. nécessite un quorum de 50% des adhérents. Le changement des statuts ou la constitution d'un nouveau C.A.se fait sans condition de quorum. La constitution d'un nouveau C.A. lors d'une assemblée générale extraordinaire n'est pas soumise aux restrictions mentionnées à l'article 9.2.2. +
+Ces décisions sont prises à l'issue d'un vote à la majorité absolue. La dissolution de l'association ou la révocation du C.A. nécessite un quorum de 50% des adhérents. Le changement des statuts ou la constitution d'un nouveau C.A.se fait sans condition de quorum. La constitution d'un nouveau C.A. lors d'une assemblée générale extraordinaire n'est pas soumise aux restrictions mentionnées à la <<participation>> . +
 Les membres peuvent remettre un pouvoir à un autre membre, cependant chaque membre ne peut être porteur de plus de deux pouvoirs.
 
 == Employés

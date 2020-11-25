@@ -1,0 +1,75 @@
+[#formations-theoriques]
+=== Principe
+
+Il s'agit d'aider à la *conception* de projets.
+
+L'objectif est de mettre à disposition concrète un ensemble d'outils logiciels permettant d'éditer, adapter l'un des projets ou en concevoir un nouveau. Cela peut être aussi dans le but d'installer un site web de documentation.
+
+
+* Documentation : Bureautique, publication web & PDF avec des langages sources "texte", plateformes Sphinxdoc ou Antora
+
+=== Implémentation
+
+==== Formation CAO/DAO/FAO
+
+Guides de mise en route, Manuels d'utilisation appliquées, Explication de notions concrètes et Abord des références sur les logiciels suivants :
+
+* Sketchup
+* AutoCAD
+* Rhinoceros + Grasshopper
+* Revit
+
+==== Formations Informatique/Bureautique/Traitement d'images
+
+L'approche d'un *écosystème* logiciel sera abordé ici afin de compléter les formations prinipales traitées ci-dessous.
+À cette fin, il sera proposé différents _modules_ permettant d'exploiter pleinement les capacités informatiques, au gré des besoins :
+
+* bureautique
+* publication
+* traitement d'images
+* etc.
+
+
+=== Difficultés
+
+L'avantage de dispenser des formations théoriques est que l'application concrète constitue la suite logique ...
+En effet, les formations dispensées chez {cyc} ont toutes pour objectif d'aboutir à la réalisation concrète d'un projet.
+
+Le désavantage de dispenser ses propres formations est que cela nécessite un investissement conséquent.
+
+
+
+
+
+
+
+.Synthèse projets "Formations"
+[%autowidth.stretch,cols="5*a"]
+|===
+5+^.^h| [red]#Formations -> théoriques#
+^h|Priorité ^h|Avancement ^h|Conception ^h|Réalisation ^h|Déploiement
+
+|* [ ] basse
+* [x] moyenne
+* [ ] importante
+* [ ] élevée
+
+|* [x] en attente
+* [ ] démarré
+* [ ] en cours
+* [ ] terminé
+* [ ] déployé
+
+|* [x] esquisse
+* [ ] avant-projet
+* [ ] projet
+
+|* [ ] prototype 00
+* [ ] optimisation suite REX
+* [ ] modèle 001
+* [ ] documentation (manuels & plans)
+
+|* [ ] formation/assistance
+* [ ] réalisation autonome
+|===
+

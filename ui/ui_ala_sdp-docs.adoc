@@ -1,0 +1,50 @@
+= Skin sdp-docs
+
+== Prérequis
+
+ $ npm install
+
+This command installs the dependencies listed in [.path]_package.json_ into the [.path]_node_modules/_ folder inside the project.
+This folder does not get included in the UI bundle and should _not_ be committed to the source control repository.
+
+
+== Prévisualisation de l'UI (ou de la skin)
+
+* éditer les fichiers présents dans le s dossier SRC (partials, etc.)
+* prévisualisation :
+
+ $ gulp preview
+
+You'll see a URL listed in the output of this command:
+
+....
+[12:00:00] Starting server...
+[12:00:00] Server started http://localhost:5252
+[12:00:00] Running server
+....
+
+Navigate to this URL to preview the site locally.
+
+While this command is running, any changes you make to the source files will be instantly reflected in the browser.
+This works by monitoring the project for changes, running the `preview:build` task if a change is detected, and sending the updates to the browser.
+
+Press kbd:[Ctrl+C] to stop the preview server and end the continuous build.
+
+== Package for Use with Antora
+
+If you need to package the UI so you can use it to generate the documentation site locally, run the following command:
+
+ $ gulp bundle
+
+=== Source Maps
+
+In preview mode, source maps are enabled automatically, so there's nothing you have to do to make use of them.
+If you need to include source maps in the bundle, you can do so by setting the `SOURCEMAPS` environment varible to `true` when you run the bundle command:
+
+ $ SOURCEMAPS=true gulp bundle
+
+In this case, the bundle will include the source maps, which can be used for debuggging your production site.
+
+== copie "ui-bundle.zip"
+
+copier le dossier "bundle.zip" créé dans le dossier "build"
