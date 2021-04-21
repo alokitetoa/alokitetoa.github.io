@@ -10,7 +10,7 @@ Nous avons conscience de faire partie d'un mouvement général porté par de mul
 Nous souhaitons associer notre démarche avec toutes les instances oeuvrant vers un but similaire au nôtre, tant pour mutualiser les compétences et moyens que pour enrichir un réseau pré-existant ou à créer.
 
 .Réalisations
-Les projets de l'association {cyc} s'incrivent dans le cadre d'une démarche concrète de modélisation/implémentation/tests/optimisation et visent au fonctionnement robuste de modèles fonctionnels reproductibles par autrui.
+Les projets de l'association {cyc} s'inscrivent dans le cadre d'une démarche concrète de modélisation/implémentation/tests/optimisation et visent au fonctionnement robuste de modèles fonctionnels reproductibles par autrui.
 
 .Formations
 Chaque projet est documenté, d'abord pour un usage interne afin d'en tracer l'évolution et puis pour un usage externe pour en permettre l'autoconstruction suite à une formation dispensée par {cyc}. Cette documentation est déclinée en manuels de fabrication, de maintenance et de plans DAO. La diffusion de cette base de connaissance sera assurée directement au travers du {web-cyc}[site web de l'association {cyc}^] sous forme de pages web ou de fichiers imprimables `.pdf` ou DAO footnote:[DAO : Dessin Assisté par Ordinateur] (`.dwg`, etc.)
@@ -31,7 +31,7 @@ Premièrement, nous voulons diminuer notre dépendance aux carburants d'origine 
 
 xref:projets_recyclage-upcyclage.adoc[image:fleche-droite.png[logo,50,50,float=right]]
 
-Deuxièmement, nous souhaitons recycler et améliorer des véhicules courants réputés pour leur faible cout d'achat et d'entretien (utilitaires à 4 et 2 roues) afin de les adapter aux carburants de synthèse fabriqués par {cyc}.
+Deuxièmement, nous souhaitons recycler et améliorer des véhicules courants réputés pour leur faible coût d'achat et d'entretien (utilitaires à 4 et 2 roues) afin de les adapter aux carburants de synthèse fabriqués par {cyc}.
 
 
 

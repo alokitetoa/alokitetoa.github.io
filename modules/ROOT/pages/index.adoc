@@ -37,7 +37,7 @@ l'association {cyc} _se propose de_ *dispenser* toute *formation* relative à se
 NOTE: L'ensemble des projets est détaillé à l'onglet xref:projets:projets_index.adoc[projets]
 
 
-== Définition
+== Étapes de développement
 
 Au travers du partage d'expériences entre ses adhérents, l'association {cyc} fait émerger des solutions concrètes et robustes. Elle est apolitique, athée et tournée vers l'opérationnel.
 
@@ -45,6 +45,10 @@ Au travers du partage d'expériences entre ses adhérents, l'association {cyc} f
 * Dans un premier temps, il s'agit de réaliser un prototype et de l'optimiser suite au REX, en se basant sur des principes de réalisation et d'exploitation à faible coût, comme d'efficience ou de portabilité (standardisation de pièces, etc.)
 * Ensuite, une fois le modèle éprouvé et revu, la transmission de compétences au plus grand nombre reste le but ultime, par l'organisation de stages de réalisation, comme de formations d'aide à la conception ou l'assistance à l'auto-réalisation.
 
+== Contact
+
+Vous pouvez nous contacter par mail à l'adresse suivante : image:cyclup-mail.jpg[100,180]
+// ,link="mailto:cyclup.ot@gmail.com" < removed for avoiding spam
 
 == Documents fondateurs
 
@@ -61,6 +65,8 @@ Par exemple, le dépôt principal fera l'objet d'un règlement d'usage spécifia
 De même, lors de la création de l'Atelier, l'uitilisation de celui-ci par les membres fera l'objet d'un règlement spécifique.
 
 L'ensemble de ces règlements visera à assurer la sécurité de tous.
+
+
 
 
 == Licences des textes de ce site WEB
