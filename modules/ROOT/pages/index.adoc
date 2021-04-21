@@ -47,7 +47,7 @@ Au travers du partage d'expériences entre ses adhérents, l'association {cyc} f
 
 == Contact
 
-Vous pouvez nous contacter par mail à l'adresse suivante : image:cyclup-mail.jpg[100,180]
+Vous pouvez nous contacter par mail à l'adresse suivante : image:cyclup-mail.jpg[100,140]
 // ,link="mailto:cyclup.ot@gmail.com" < removed for avoiding spam
 
 == Documents fondateurs
