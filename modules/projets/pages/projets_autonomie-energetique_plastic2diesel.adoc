@@ -33,7 +33,6 @@ Nous devons l'adapter à nos contraintes.
 * atelier de fabrication des machines
 * lieu d'essais & d'exploitation du process
 
-NB : Comme pour d'autres projets de ce FABeLABe, il s'agit d'_implémenter une solution_ conçue au préalable _en l'adaptant à nos contraintes_ & capacités de réalisation.
 
 
 .Synthèse projet "plastic 2 diesel"
